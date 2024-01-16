@@ -14,7 +14,7 @@
     </div>
 </div>
 
-<!--===== SERVICE STARTS=======-->
+<!--===== SECTOR STARTS=======-->
 <div class="secvice8-section-area section-padding8">
   <img src="assets/images/elementor/elementor51.png" alt="" class="elementors14">
   <div class="container">
@@ -120,6 +120,6 @@
     </div>
   </div>
 </div>
-<!--===== SERVICE END=======-->
+<!--===== SECTOR END=======-->
 
 <?php include "includes/footer.php";?>
