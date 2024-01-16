@@ -51,20 +51,7 @@
                 </div>
             </div>
             </div>
-
-            <div class="col-lg-4">
-              <div class="contactcta5-form">
-                <div class="contact6-ctafrom8">
-                  <h1 class="font-20 font-lora weight-600 lineh-20 color39">Subscribe Our Newsletter</h1>
-                  <form class="form7">
-                    <input type="text" placeholder="Enter Your email">
-                    <div class="contact5-btn15">
-                      <button class="font-ks font-16 weight-700 lineh-16 color consulitingbt7 text-right">Subscribe <span><i class="fa-solid fa-arrow-right"></i></span></button>
-                     </div>
-                  </form>
-                </div>
-              </div>
-            </div>
+            
           </div>
           <img src="assets/images/elementor/elementor54.png" alt="" class="elementors18">
           <img src="assets/images/elementor/elementor55.png" alt="" class="elementor19">

@@ -177,7 +177,7 @@
               <img src="assets/images/icons/email4.svg" alt="">
             </div>
             <div class="contact-info-text">
-              <a href="mailto:info@example.com" class="font-ks font-16 lineh-26 weight-500 color-21">info@example.com</a>
+              <a href="mailto:info@corridorgroupag.com" class="font-ks font-16 lineh-26 weight-500 color-21">info@corridorgroupag.com</a>
             </div>
           </div>
 
@@ -189,7 +189,7 @@
                 <img src="assets/images/icons/location2.png" alt="">
               </div>
               <div class="contact-info-text">
-                <a href="mailto:info@example.com" class="font-ks font-16 lineh-26 weight-500 color-21">55 East Birchwood Ave.Brooklyn, <br> New York 11201,United States</a>
+                <a href="mailto:info@corridorgroupag.com" class="font-ks font-16 lineh-26 weight-500 color-21">55 East Birchwood Ave.Brooklyn, <br> New York 11201,United States</a>
               </div>
             </div>
 
