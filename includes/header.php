@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home 04 || Consalt</title>
+    <title>Corridor Group</title>
 
         <!--=====CSS LINK=======-->
         <link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css">
@@ -74,7 +74,7 @@
               </div>
               <div class="main-menu-ex  homepage8 homepage7 ">
                 <ul>
-                  <li><a href="#">Home</a> 
+                  <li><a href="index.php">Home</a> 
                   </li>
                   <li><a href="javascript:void();" class="font-ks font-16 weight-500 color">Our Services <span><i class="fa-solid fa-angle-down"></i></span></a>
                     <ul>
@@ -96,8 +96,8 @@
                       <li><a href="#" class="font-ks font-16 weight-500 color">Renewable Energy</a></li>
                     </ul>
                   </li>
-                  <li><a href="#" class="font-ks font-16 weight-500 color">About</a></li>
-                  <li><a href="#" class="font-ks font-16 weight-500 color">Contact Us</a></li>
+                  <li><a href="about.html" class="font-ks font-16 weight-500 color">About</a></li>
+                  <li><a href="about.html" class="font-ks font-16 weight-500 color">Contact Us</a></li>
               </ul>
           </div>
         </div>
@@ -134,74 +134,41 @@
     <div class="mobile-nav">
 
       <ul class="mobile-nav-list">
-        <li><a href="#" class="font-ks font-16 weight-500 color">Home </a>
+        <li><a href="index.php" class="font-ks font-16 weight-500 color">Home </a>
+        </li>
+        <li><a href="#" class="font-ks font-16 weight-500 color">Our Services</a> 
           <ul class="sub-menu">
-            <li><a href="index1.html" class="font-ks font-16 weight-500 color">Law Consulting 01</a></li>
-            <li><a href="index7.html" class="font-ks font-16 weight-500 color">Law Consulting 02</a></li>
-            <li><a href="index3.html" class="font-ks font-16 weight-500 color">Tax Consulting 01</a></li>
-            <li><a href="index8.html" class="font-ks font-16 weight-500 color">Tax Consulting 02</a></li>
-            <li><a href="index2.html" class="font-ks font-16 weight-500 color">Business Consulting 01</a></li>
-            <li><a href="index5.html" class="font-ks font-16 weight-500 color">Business Consulting 02</a></li>
-            <li><a href="index4.html" class="font-ks font-16 weight-500 color">Finance Consulting 01</a></li>
-            <li><a href="index6.html" class="font-ks font-16 weight-500 color">Finance Consulting 02</a></li>
-            <li><a href="index9.html" class="font-ks font-16 weight-500 color">Insurance Consulting 01</a></li>
-            <li><a href="index10.html" class="font-ks font-16 weight-500 color">Insurance Consulting 02</a></li>
-            <li><a href="index11.html" class="font-ks font-16 weight-500 color">Visa Consulting 01</a></li>
-            <li><a href="index12.html" class="font-ks font-16 weight-500 color">Visa Consulting 02</a></li>
+            <li><a href="#" class="font-ks font-16 weight-500 color">Asset Management</a></li>
+            <li><a href="#" class="font-ks font-16 weight-500 color">Reliability Management</a></li>
+            <li><a href="#" class="font-ks font-16 weight-500 color">Maintenance Management</a></li>
+            <li><a href="#" class="font-ks font-16 weight-500 color">Project Management</a></li>
+            <li><a href="#" class="font-ks font-16 weight-500 color">Facilities Management</a></li>
+            <li><a href="#" class="font-ks font-16 weight-500 color">Business Improvement</a></li>
           </ul>
-        </li>
-
-        <li><a href="about.html" class="font-ks font-18 weight-600 color">About</a></li>
-
-      <li><a href="#" class="font-ks font-16 weight-500 color">Our Services</a> 
-        <ul class="sub-menu">
-          <li><a href="servicev1.html" class="font-ks font-16 weight-500 color-1">Servics V1</a></li>
-                    <li><a href="servicev2.html" class="font-ks font-16 weight-500 color">Servics V2</a></li>
-                    <li><a href="serviceleft.html" class="font-ks font-16 weight-500 color"> Service Details Left</a></li>
-                    <li><a href="serviceright.html" class="font-ks font-16 weight-500 color">Service Details Right</a></li>
-                    <li><a href="servicemiddle.html" class="font-ks font-16 weight-500 color"> Single Service</a></li>
-        </ul>
-      </li>
-
-        <li><a href="testimonials.html" class="font-ks font-16 weight-500 color">Case Studies </a>
+        </li>  
+        <li><a href="#" class="font-ks font-16 weight-500 color">Sectors</a> 
           <ul class="sub-menu">
-            <li><a href="casestudy1.html" class="font-ks font-16 weight-500 color-1">Case Study</a></li>
-                <li><a href="caseleft.html" class="font-ks font-16 weight-500 color">Case Details Left</a></li>
-                <li><a href="caseright.html" class="font-ks font-16 weight-500 color">Case Details Right</a></li>
-                <li><a href="casemiddle.html" class="font-ks font-16 weight-500 color">Case Single </a></li>
-          </ul >
-        </li>
-            <li><a href="#" class="font-ks font-16 weight-500 color"> Our Blog</a>
-              <ul class="sub-menu">
-                <li><a href="blog2.html" class="font-ks font-16 weight-500 color-1">Blog One</a></li>
-                          <li><a href="blog3.html" class="font-ks font-16 weight-500 color">Blog Two</a></li>
-                          <li><a href="blogleft.html" class="font-ks font-16 weight-500 color">Blog Details Left</a></li>
-                          <li><a href="blogright.html" class="font-ks font-16 weight-500 color">BLog Details Right</a></li>
-                          <li><a href="blogmiddle.html" class="font-ks font-16 weight-500 color"> Single Blog</a></li>
-              </ul>
-            </li>
-            <li><a href="#" class="font-ks font-16 weight-00 color">Pages</a>
-              <ul class="sub-menu">
-                          <li><a href="testimonials.html" class="font-ks font-16 weight-500 color">Testimonials </a></li>
-                          <li><a href="team.html" class="font-ks font-16 weight-500 color">Our Team</a></li>
-                          <li><a href="team-details.html" class="font-ks font-16 weight-500 color">Single Team</a></li>
-                          <li><a href="contact1.html" class="font-ks font-16 weight-500 color">Contact 1</a></li>
-                          <li><a href="contact2.html" class="font-ks font-16 weight-500 color">Contact 2</a></li>
-                          
-              </ul>
-            </li>
+            <li><a href="#" class="font-ks font-16 weight-500 color">Road & Highway Sector</a></li>
+            <li><a href="#" class="font-ks font-16 weight-500 color">Technology</a></li>
+            <li><a href="#" class="font-ks font-16 weight-500 color">Petroleum & Maritime</a></li>
+            <li><a href="#" class="font-ks font-16 weight-500 color">Healthcare</a></li>
+            <li><a href="#" class="font-ks font-16 weight-500 color">Rail and Freight</a></li>
+            <li><a href="#" class="font-ks font-16 weight-500 color">Renewable Energy</a></li>
+          </ul>
+        </li>        
+        <li><a href="about.html" class="font-ks font-18 weight-600 color">About</a></li>
       </ul>
      <div class="allmobilesection">
-      <a href="#" class="font-ks font-18 lineh-18 weight-700 color mobilemenubtn">Get Started</a>
+      <!-- <a href="#" class="font-ks font-18 lineh-18 weight-700 color mobilemenubtn">Get Started</a> -->
       <div class="single-footer single-footer-menu single-footer4">
-        <h3 class="font-ks font-24 lineh-24 weight-600 color margin-b margin-t24">Contact Info</h3>
+        <h3 class="font-ks font-24 lineh-24 weight-600 color margin-b margin-t24">Contact</h3>
         <div class="footer4-contact-info">
           <div class="contact-info-single">
             <div class="contact-info-icon">
               <img src="assets/images/icons/phone5.svg" alt="">
             </div>
             <div class="contact-info-text">
-              <a href="tel:+3(924)4596512" class="font-ks font-16 lineh-26 weight-500 color-21">+3(924)4596512</a>
+              <a href="tel:+2348108554110" class="font-ks font-16 lineh-26 weight-500 color-21">+2348108554110</a>
             </div>
           </div>
 

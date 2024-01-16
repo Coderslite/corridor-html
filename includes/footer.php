@@ -71,7 +71,7 @@
         </div>
         <div class="border7"></div>
           <div class="copyright6 text-center">
-            <p class="font-ks lineh-26 weight-500 font-16 colorhp1">© Copyright 2023 Consalt Law Consultant, Designed by Fleexstudio</p>
+            <p class="font-ks lineh-26 weight-500 font-16 colorhp1">© Copyright 2024 Corridor Group AG</p>
           </div>
       </div>
     </div>
