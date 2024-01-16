@@ -27,7 +27,7 @@
         <link rel="stylesheet" href="assets/css/plugins/responsive.css">
 
          <!--=====FAV-ICoN=======-->
-         <link rel="shortcut icon" href="assets/images/logo/favicon4.png"/>
+         <link rel="shortcut icon" href="assets/logo/favicon.png"/>
 
 
      <!--=====JQUERY=======-->
@@ -40,7 +40,7 @@
      <div id="pre-load" class="loader8">
       <div id="loader" class="loader">
           <div class="loader-container">
-              <div class="loader-icon"><img src="assets/images/logo/logos11.png" alt="Bcom - Consulting Business HTML Template "></div>
+              <div class="loader-icon"><img src="assets/logo/favicon.png" style="width: 130px;" alt="Corridor Group AG Logo "></div>
           </div>
       </div>              
   </div>
@@ -70,13 +70,13 @@
           <div class="col-12">
             <div class="header-elements">
               <div class="site-logo">
-                <a href="index1.html"><img src="assets/images/logo/logo11.png" alt=""></a>
+                <a href="index1.html"><img src="assets/logo/logo-white.png" style="width: 300px; height: auto;" alt=""></a>
               </div>
               <div class="main-menu-ex  homepage8 homepage7 ">
                 <ul>
                   <li><a href="index.php">Home</a> 
                   </li>
-                  <li><a href="javascript:void();" class="font-ks font-16 weight-500 color">Our Services <span><i class="fa-solid fa-angle-down"></i></span></a>
+                  <li><a href="service.php" class="font-ks font-16 weight-500 color">Our Services <span><i class="fa-solid fa-angle-down"></i></span></a>
                     <ul>
                       <li><a href="#" class="font-ks font-16 weight-500 color">Asset Management</a></li>
                       <li><a href="#" class="font-ks font-16 weight-500 color">Reliability Management</a></li>
@@ -86,7 +86,7 @@
                       <li><a href="#" class="font-ks font-16 weight-500 color">Business Improvement</a></li>
                     </ul>
                   </li>
-                  <li><a href="javascript:void();" class="font-ks font-16 weight-500 color">Sectors <span><i class="fa-solid fa-angle-down"></i></span></a>
+                  <li><a href="sector.php" class="font-ks font-16 weight-500 color">Sectors <span><i class="fa-solid fa-angle-down"></i></span></a>
                     <ul>
                       <li><a href="#" class="font-ks font-16 weight-500 color">Road & Highway Sector</a></li>
                       <li><a href="#" class="font-ks font-16 weight-500 color">Technology</a></li>
@@ -96,8 +96,8 @@
                       <li><a href="#" class="font-ks font-16 weight-500 color">Renewable Energy</a></li>
                     </ul>
                   </li>
-                  <li><a href="about.html" class="font-ks font-16 weight-500 color">About</a></li>
-                  <li><a href="about.html" class="font-ks font-16 weight-500 color">Contact Us</a></li>
+                  <li><a href="about.php" class="font-ks font-16 weight-500 color">About</a></li>
+                  <li><a href="contact.php" class="font-ks font-16 weight-500 color">Contact Us</a></li>
               </ul>
           </div>
         </div>
@@ -112,7 +112,7 @@
       <div class="col-12">
         <div class="mobile-header-elements">
           <div class="mobile-logo">
-            <a href="index.html"><img src="assets/images/logo/logo11.png" alt=""></a>
+            <a href="index.php"><img src="assets/logo/logo-white.png" style="width: 300px; height: auto;" alt=""></a>
           </div>
           <div class="mobile-nav-icon dots-menu">
             <i class="fa-solid fa-bars"></i>
@@ -125,7 +125,7 @@
   <div class="mobile-sidebar">
    <div class="logoicons-area">
       <div class="logos">
-        <img src="assets/images/logo/logo11.png" alt="">
+        <img src="assets/logo/logo-white.png" alt="">
       </div>
       <div class="menu-close">
         <i class="fa-solid fa-xmark"></i>
@@ -146,7 +146,7 @@
             <li><a href="#" class="font-ks font-16 weight-500 color">Business Improvement</a></li>
           </ul>
         </li>  
-        <li><a href="#" class="font-ks font-16 weight-500 color">Sectors</a> 
+        <li><a href="sector.php" class="font-ks font-16 weight-500 color">Sectors</a> 
           <ul class="sub-menu">
             <li><a href="#" class="font-ks font-16 weight-500 color">Road & Highway Sector</a></li>
             <li><a href="#" class="font-ks font-16 weight-500 color">Technology</a></li>

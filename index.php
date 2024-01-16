@@ -10,57 +10,62 @@
                     <h1 class="font-lora font-56 lineh-64 weight-600 color margin-b" data-aos="fade-left" data-aos-duration="1200">Experience The Tax Consulting Benefits</h1>
                     <p class="font-16 font-ks weight-500 color-21 lineh-26">Our team comprises seasoned tax professionals with in-depth of <br> knowledge of tax regulations and strategies, our solutions are you.</p>
                     <div class="div" data-aos="fade-left" data-aos-duration="1000">
-                      <a href="contact1.html" class="font-ks font-16 lineh-16 weight-700 color solutions1 margin-t32">Discover Tax Solutions <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                      <a href="contact1.html" class="font-ks font-16 lineh-16 weight-700 color solutions1 margin-t32">Explor More <span><i class="fa-solid fa-arrow-right"></i></span></a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6" >
-                <div class="welcomecontact-header" data-aos="zoom-out" data-aos-duration="1200">
-                  <img src="assets/images/elementor/elementor50.png" alt="" class="elemenors8 keyframe3">
-                    <h1 class="font-lora font-24 lineh-24 weight-600 color39 margin-b20">Request a free consult now!</h1>
-                    <p>What services can we help you with?</p>
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="first-input margin-b30">
-                              <div class="first-name-input">
-                                <select name="country" id="country" class="country-area nice-select6 margin-b30">
-                                  <option value="1" data-display="Service Type">Service Type</option>
-                                  <option value="">Belgium</option>
-                                  <option value="">Brezil</option>
-                                  <option value="">Argentina</option>
-                                  <option value="">Bangladesh</option>
-                                  <option value="">Germany</option>
-                                </select>
-                              </div>               
-                            </div>
-                          </div>
-                          <div class="col-lg-6">
-                            <div class="contact8">
-                                <h1 class="font-lora font-16 lineh-16 weight-500 color39 margin-b">Your Email*</h1>
-                                <input type="text" placeholder="twpcss@gmail.com">
-                            </div>
-                          </div>
+            <div class="col-lg-1"></div>
+            <div class="col-lg-5">
+                <div class="welcome-bgarea" data-aos="zoom-in" data-aos-duration="1000">
+                    <div class="welcome-ellips" data-aos="zoom-out" data-aos-duration="1200">
+                        <img src="assets/images/background/homepagewelbg.png" alt="" class="homewelbg keyframe3">
 
-                          <div class="col-lg-6">
-                            <div class="contact8">
-                                <h1 class="font-lora font-16 lineh-16 weight-500 color39 margin-b">Phone Number*</h1>
-                                <input type="number" placeholder="(123) 456-7890">
-                            </div>
-                          </div>
-
-                          <div class="col-lg-12">
-                            <div class="contact8 margin-t32">
-                                <h1 class="font-lora font-16 lineh-16 weight-500 color39 margin-b20">Tell us about your business</h1>
-                                <textarea cols="30" rows="10" placeholder="Message"></textarea>
-                            </div>
-                            <div class="col-lg-12" data-aos="fade-left" data-aos-duration="1400">
-                              <button class="font-ks font-16 weight-700 lineh-16 color consulitingbt7 text-right">Submit Now <span><i class="fa-solid fa-arrow-right"></i></span></button>
-                            </div>
-                          </div>
+                        <div class="elips-icon">
+                            <img src="assets/images/icons/export4.svg" alt="">
+                        </div>
                     </div>
+                    <div class="welcomeellips-icon" >
+                        <div class="ellipsarea1">
+                            <div class="exportellips">
+                                <img src="assets/images/icons/export5.svg" alt="" class="">
+                            </div>
+                            <img src="assets/images/elementor/elementor61.png" alt="" class="elementor60 keyframe3">
+                        </div>
+                    </div>
+
+                    <div class="welcomeellips-icon1">
+                        <div class="ellipsarea2">
+                            <div class="exportellips">
+                                <img src="assets/images/icons/export6.svg" alt="" class="">
+                            </div>
+                            <img src="assets/images/elementor/elementor61.png" alt="" class="elementor60 keyframe3">
+                        </div>
+                    </div>
+
+
+                    <div class="welcomeellips-icon2">
+                        <div class="ellipsarea3">
+                            <div class="exportellips">
+                                <img src="assets/images/icons/export7.svg" alt="" class="">
+                            </div>
+                            <img src="assets/images/elementor/elementor61.png" alt="" class="elementor60 keyframe3">
+                        </div>
+                    </div>
+
+
+                     <div class="welcomeellips-icon3">
+                        <div class="ellipsarea4">
+                            <div class="exportellips">
+                                <img src="assets/images/icons/export8.svg" alt="" class="">
+                            </div>
+                            <img src="assets/images/elementor/elementor61.png" alt="" class="elementor60 keyframe3">
+                        </div>
+                    </div> 
+
 
                 </div>
             </div>
+
         </div>
     </div>
     <img src="assets/images/elementor/elementor49.png" alt="" class="elementors7 aniamtion-key-1">
@@ -71,7 +76,7 @@
 <div class="about8-section-area section-padding5">
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-lg-6" data-aos="fade-right" data-aos-duration="1000">
+      <div class="col-lg-6 d-none d-sm-none d-md-block" data-aos="fade-right" data-aos-duration="1000">
         <div class="about2-author-images">
          <div class="about2-scetion-images" data-aos="zoom-out" data-aos-duration="1200">
              <img src="assets/images/sectionimg/about3-img.png" alt="">
@@ -101,7 +106,7 @@
           </div> 
           <p class="font-ks font-16 lineh-26 colorhp1 weight-500">Experience: Our team brings years of experience across various industries, allowing us to offer insights and strategies that are tailored to your specific business needs. Results-Driven Approach: We are committed to delivering tangible results and measurable outcomes for our clients.</p>
           <div class="theme-btn4 margin-t32 d-inline-block margn-left" data-aos="fade-left" data-aos-duration="1400">
-             <a href="about.html" class="font-ks font-16 weight-700 lineh-16 color consulitingbt7 text-right d-inline-block">About Us<span class="ml1"><i class="fa-solid fa-arrow-right"></i></span></a>
+             <a href="about.php" class="font-ks font-16 weight-700 lineh-16 color consulitingbt7 text-right d-inline-block">About Us<span class="ml1"><i class="fa-solid fa-arrow-right"></i></span></a>
           </div>
       </div>
   </div>
@@ -210,50 +215,13 @@
 
       <div class="col-lg-12 text-center">
        <div class="service8-btn margin-t32" data-aos="fade-up" data-aos-duration="1200">
-        <a href="about.html" class="font-ks font-16 weight-700 lineh-16 color consulitingbt7 text-right d-inline-block">Exploer Our Services<span><i class="fa-solid fa-arrow-right"></i></span></a>
+        <a href="about.php" class="font-ks font-16 weight-700 lineh-16 color consulitingbt7 text-right d-inline-block">Exploer Our Services<span><i class="fa-solid fa-arrow-right"></i></span></a>
        </div>
       </div>
     </div>
   </div>
 </div>
 <!--===== SERVICE END=======-->
-
-<!--===== COUNTER STARTS=======-->
-<div class="counter8-section-area section-padding4">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-3" >
-        <div class="counter8-box-area text-center" data-aos="zoom-in" data-aos-duration="800">
-          <h1 class="font-lora font-44 lineh-52 weight-600 color39 margin-b20 ts"><span class="counter ts">400</span>+</h1>
-          <p class="font-16 font-ks weight-500 colorhp1 lineh-16 ts">Consulting Solution</p>
-        </div>
-      </div>
-    
-      <div class="col-lg-3" >
-        <div class="counter8-box-area text-center" data-aos="zoom-in" data-aos-duration="1000">
-          <h1 class="font-lora font-44 lineh-52 weight-600 color39 margin-b20 ts"><span class="counter ts">620</span>+</h1>
-          <p class="font-16 font-ks weight-500 colorhp1 lineh-16 ts">Complete Cases</p>
-        </div>
-      </div>
-
-      <div class="col-lg-3" >
-        <div class="counter8-box-area text-center" data-aos="zoom-in" data-aos-duration="1200">
-          <h1 class="font-lora font-44 lineh-52 weight-600 color39 margin-b20 ts"><span class="counter ts">800</span>+</h1>
-          <p class="font-16 font-ks weight-500 colorhp1 lineh-16 ts">Happy Customer</p>
-        </div>
-      </div>
-
-
-      <div class="col-lg-3" >
-        <div class="counter8-box-area text-center" data-aos="zoom-in" data-aos-duration="1400">
-          <h1 class="font-lora font-44 lineh-52 weight-600 color39 margin-b20 ts"><span class="counter ts">120</span>+</h1>
-          <p class="font-16 font-ks weight-500 colorhp1 lineh-16 ts">Expert Consultant</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!--===== COUNTER END=======-->
 
 <!--===== SERVICE-2 STARTS=======-->
 <div class="servicebenefites8-section-area section-padding8">
@@ -314,215 +282,6 @@
   </div>
 </div>
 <!--===== SERVICE-2 END=======-->
-
-<!--===== PRICING STARTS =======-->
-<div class="pricing8-section-area section-padding8">
-  <img src="assets/images/elementor/elementor52.png" alt="" class="elmenotrs12">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-7 m-auto">
-        <div class="pricing8-header text-center margin-b48">
-          <span class=" about8 font-ks font-16 lineh-16 color39 weight-500 margin-b20 d-inline-block">Pricing Plan</span>
-          <h1 class="font-lora font-44 weight-600 lineh-52 color39 margin-b20">Here's How Our tax Consulting Services Can Benefit You</h1>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-12" data-aos="fade-up" data-aos-duration="1200">
-        <div class="princing-plans">
-          <div class="container">
-            <div class="row">
-              <div class="col-12 text-center">
-                <div class="plan-toggle-wrap">
-                  <div class="toggle-inner home8price">
-                    <input id="ce-toggle" checked="" type="checkbox">
-                    <span class="custom-toggle"></span>
-                    <span class="t-month font-ks font-16 lineh-26 weight-500 color39">Monthly</span>
-                    <span class="t-year font-ks font-16 lineh-26 weight-500 color39">Annual</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="tab-content">
-                  <div id="monthly" style="display: block;">
-                    <div class="row">
-                      <div class="col-md-6 col-lg-4">
-                        <div class="price-box btnbrfores">
-                          <div class="hadding hadding-p single-price">
-                            <h2 class="font-lora font-24 weight-600 lineh-26 color39 ts">Basic</h2>
-                            <div class="space20"></div>
-                            <h2 class="pricing-heading font-lora color39 ts">$29<span class="font-lora font-20 weight-600 lineh-50 color39 ts">/month</span></h2>
-                            <p class="font-ks font-16 lineh-26 weight-500 colorhp1 margin-b24 ts">Aut quod doloremque saepe sit deleniti consequatur. Possimus quod officiis.</p>
-                            <div class="shecdule-btn2">
-                              <a href="contact1.html" class="font-ks font-16 lineh-16 color weight-700 solutions1">Choose a Plan <span><span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                          </div>
-                            <div class="space40"></div>
-                            <div class="price-list homepricing8">
-                              <ul>
-                                <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Business Planning</li>
-                                <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Next Genaration Accounting</li>
-                                <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Tax Prepration and Planning</li>
-                                <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Financial Freedom Consulting</li>
-                                <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Purposive Business Planning</li>
-                                <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Corporate Finance</li>
-                                <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> International Business </li>
-                                <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Business Finance Planning</li>
-                                <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Business Strategy</li>
-                              </ul>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-6 col-lg-4">
-                        <div class="price-box btnbrfores">
-                          <div class="hadding hadding-p single-price">
-                            <h2 class="font-lora font-24 weight-600 lineh-26 color37 ts">Plus</h2>
-                            <div class="space20"></div>
-                            <h2 class="pricing-heading font-lora color34 ts">$49<span class="font-lora font-20 weight-600 lineh-50 color37 ts">/month</span></h2>
-                            <p class="font-ks font-16 lineh-26 weight-500 colorhp1 margin-b24 ts">Aut quod doloremque saepe sit deleniti consequatur. Possimus quod officiis.</p>
-                            <div class="shecdule-btn2">
-                              <a href="contact1.html" class="font-ks font-16 lineh-16 color weight-700 solutions1 d-inline-block">Choose a Plan <span><span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                          </div>
-                            <div class="space40"></div>
-                            <div class="price-list homepricing8">
-                              <ul>
-                                <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Business Planning</li>
-                                <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Next Genaration Accounting</li>
-                                <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Tax Prepration and Planning</li>
-                                <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Financial Freedom Consulting</li>
-                                <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Purposive Business Planning</li>
-                                <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Corporate Finance</li>
-                                <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> International Business </li>
-                                <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Business Finance Planning</li>
-                                <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Business Strategy</li>
-                              </ul>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-6 col-lg-4">
-                        <div class="price-box btnbrfores">
-                          <div class="hadding hadding-p single-price">
-                            <h2 class="font-lora font-24 weight-600 lineh-26 color37 ts">Bussiness</h2>
-                            <div class="space20"></div>
-                            <h2 class="pricing-heading font-lora color34 ts">$99<span class="font-lora font-20 weight-600 lineh-50 color37 ts">/month</span></h2>
-                            <p class="font-ks font-16 lineh-26 weight-400 color38 margin-b24 ts">Aut quod doloremque saepe sit deleniti consequatur. Possimus quod officiis.</p>
-                            <div class="shecdule-btn2">
-                              <a href="contact1.html" class="font-ks font-16 lineh-16 color weight-700 solutions1 d-inline-block">Choose a Plan <span><span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                          </div>
-                            <div class="space40"></div>
-                            <div class="price-list homepricing8">
-                              <ul>
-                                <li class="font-ks font-16 weight-600 color37 ts"><span><i class="fa-solid fa-check"></i></span> Business Planning</li>
-                                <li class="font-ks font-16 weight-600 color37 ts"><span><i class="fa-solid fa-check"></i></span> Next Genaration Accounting</li>
-                                <li class="font-ks font-16 weight-600 color37 ts"><span><i class="fa-solid fa-check"></i></span> Tax Prepration and Planning</li>
-                                <li class="font-ks font-16 weight-600 color37 ts"><span><i class="fa-solid fa-check"></i></span> Financial Freedom Consulting</li>
-                                <li class="font-ks font-16 weight-600 color37 ts"><span><i class="fa-solid fa-check"></i></span> Purposive Business Planning</li>
-                                <li class="font-ks font-16 weight-600 color37 ts"><span><i class="fa-solid fa-check"></i></span> Corporate Finance</li>
-                                <li class="font-ks font-16 weight-600 color37 ts"><span><i class="fa-solid fa-check"></i></span> International Business </li>
-                                <li class="font-ks font-16 weight-600 color37 ts"><span><i class="fa-solid fa-check"></i></span> Business Finance Planning</li>
-                                <li class="font-ks font-16 weight-600 color37 ts"><span><i class="fa-solid fa-check"></i></span> Business Strategy</li>
-                              </ul>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                <div id="yearly" style="display: none;" class="bacdeg">
-                  <div class="row">
-                    <div class="col-md-6 col-lg-4">
-                      <div class="price-box btnbrfores">
-                        <div class="hadding hadding-p single-price">
-                          <h2 class="font-lora font-24 weight-600 lineh-26 color39 ts">Basic</h2>
-                          <div class="space20"></div>
-                          <h2 class="pricing-heading font-lora color39 ts">$399<span class="font-lora font-20 weight-600 lineh-50 color39 ts">/Annual</span></h2>
-                          <p class="font-ks font-16 lineh-26 weight-500 colorhp1 margin-b24 ts">Aut quod doloremque saepe sit deleniti consequatur. Possimus quod officiis.</p>
-                          <div class="shecdule-btn2">
-                            <a href="contact1.html" class="font-ks font-16 lineh-16 color weight-700 solutions1">Choose a Plan <span><span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                        </div>
-                          <div class="space40"></div>
-                          <div class="price-list homepricing8">
-                            <ul>
-                              <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Business Planning</li>
-                              <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Next Genaration Accounting</li>
-                              <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Tax Prepration and Planning</li>
-                              <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Financial Freedom Consulting</li>
-                              <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Purposive Business Planning</li>
-                              <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Corporate Finance</li>
-                              <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> International Business </li>
-                              <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Business Finance Planning</li>
-                              <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Business Strategy</li>
-                            </ul>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                      <div class="price-box btnbrfores">
-                        <div class="hadding hadding-p single-price">
-                          <h2 class="font-lora font-24 weight-600 lineh-26 color37 ts">Plus</h2>
-                          <div class="space20"></div>
-                          <h2 class="pricing-heading font-lora color34 ts">$549<span class="font-lora font-20 weight-600 lineh-50 color37 ts">/Annual</span></h2>
-                          <p class="font-ks font-16 lineh-26 weight-500 colorhp1 margin-b24 ts">Aut quod doloremque saepe sit deleniti consequatur. Possimus quod officiis.</p>
-                          <div class="shecdule-btn2">
-                            <a href="contact1.html" class="font-ks font-16 lineh-16 color weight-700 solutions1 d-inline-block">Choose a Plan <span><span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                        </div>
-                          <div class="space40"></div>
-                          <div class="price-list homepricing8">
-                            <ul>
-                              <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Business Planning</li>
-                              <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Next Genaration Accounting</li>
-                              <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Tax Prepration and Planning</li>
-                              <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Financial Freedom Consulting</li>
-                              <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Purposive Business Planning</li>
-                              <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Corporate Finance</li>
-                              <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> International Business </li>
-                              <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Business Finance Planning</li>
-                              <li class="font-ks font-16 weight-600 color39 ts"><span><i class="fa-solid fa-check"></i></span> Business Strategy</li>
-                            </ul>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                      <div class="price-box btnbrfores">
-                        <div class="hadding hadding-p single-price">
-                          <h2 class="font-lora font-24 weight-600 lineh-26 color37 ts">Bussiness</h2>
-                          <div class="space20"></div>
-                          <h2 class="pricing-heading font-lora color34 ts">$499<span class="font-lora font-20 weight-600 lineh-50 color37 ts">/Annual</span></h2>
-                          <p class="font-ks font-16 lineh-26 weight-400 color38 margin-b24 ts">Aut quod doloremque saepe sit deleniti consequatur. Possimus quod officiis.</p>
-                          <div class="shecdule-btn2">
-                            <a href="contact1.html" class="font-ks font-16 lineh-16 color weight-700 solutions1 d-inline-block">Choose a Plan <span><span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                        </div>
-                          <div class="space40"></div>
-                          <div class="price-list homepricing8">
-                            <ul>
-                              <li class="font-ks font-16 weight-600 color37 ts"><span><i class="fa-solid fa-check"></i></span> Business Planning</li>
-                              <li class="font-ks font-16 weight-600 color37 ts"><span><i class="fa-solid fa-check"></i></span> Next Genaration Accounting</li>
-                              <li class="font-ks font-16 weight-600 color37 ts"><span><i class="fa-solid fa-check"></i></span> Tax Prepration and Planning</li>
-                              <li class="font-ks font-16 weight-600 color37 ts"><span><i class="fa-solid fa-check"></i></span> Financial Freedom Consulting</li>
-                              <li class="font-ks font-16 weight-600 color37 ts"><span><i class="fa-solid fa-check"></i></span> Purposive Business Planning</li>
-                              <li class="font-ks font-16 weight-600 color37 ts"><span><i class="fa-solid fa-check"></i></span> Corporate Finance</li>
-                              <li class="font-ks font-16 weight-600 color37 ts"><span><i class="fa-solid fa-check"></i></span> International Business </li>
-                              <li class="font-ks font-16 weight-600 color37 ts"><span><i class="fa-solid fa-check"></i></span> Business Finance Planning</li>
-                              <li class="font-ks font-16 weight-600 color37 ts"><span><i class="fa-solid fa-check"></i></span> Business Strategy</li>
-                            </ul>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-          </div>
-          </div>
-      </div>
-    </div>
-  </div>
-  <img src="assets/images/elementor/elementor53.png" alt="" class="elemneotrs13">
-</div>
-<!--===== PRICING END=======-->
 
 <!--===== TESTIMONIAL STARTS=======-->
 <div class="testimonial8-section-area section-padding5">
@@ -795,78 +554,6 @@
 </div>
 <!--===== TESTIMONIAL END=======-->
 
-<!--===== BLOG STARTS=======-->
-<div class="blog8-section-area section-padding8">
-  <img src="assets/images/elementor/elementor51.png" alt="" class="elemenotrs16">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-6 m-auto">
-        <div class="blog-7-header text-center margin-b60">
-          <span class=" about8 font-ks font-16 lineh-16 color39 weight-500 margin-b20 d-inline-block">Our Blogs</span>
-          <h1 class="font-lora font-44 weight-600 lineh-52 color39 margin-b20">Our Latest News & Blog</h1>
-        </div>
-      </div>
-    </div>
-   
-    <div class="row">
-      <div class="col-lg-4 col-md-6" data-aos="fade-right" data-aos-duration="1200">
-        <div class="blog1-boxarea blog7boxarea">
-          <div class="blog1-img">
-            <img src="assets/images/sectionimg/blog4.png" alt="">
-          </div>
-           <div class="blog1-padding blog8area">
-            <div class="blog1-text">
-               <img src="assets/images/icons/vector1.png" alt="" class="ts">
-                <a href="#" class="color-h7"><p class="font-ks font-16 weight-500 color-h7 lineh-26 ts">02 Nov 2023</p></a>
-            </div>
-            <a href="blogmiddle.html" class="font-lora font-24 lineh-30 weight-500 color-h7 margin-b d-inline-block link-hover ts">Unlock Financial Success Expert Tax Consulting</a>
-            <p class="font-16 font-ks lineh-26 weight-500 color-hp1 margin-b ts">We take pride in the success stories of our clients  trust they place in consult.</p>
-            <a href="blogmiddle.html" class="font-ks font-16 lineh-16 color-h8 weight-700  d-inline-block laearnmore2 ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
-           </div>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6" data-aos="fade-right" data-aos-duration="1000">
-        <div class="blog1-boxarea blog7boxarea">
-          <div class="blog1-img">
-            <img src="assets/images/sectionimg/blog5.png" alt="">
-          </div>
-           <div class="blog1-padding blog8area">
-            <div class="blog1-text">
-                <img src="assets/images/icons/vector1.png" alt="" class="ts">
-               <a href="#" class="color-h7"><p class="font-ks font-16 weight-500 color-h7 lineh-26 ts">02 Nov 2023</p></a>
-            </div>
-            <a href="blogmiddle.html" class="font-lora font-24 lineh-30 weight-500 color-h7 margin-b d-inline-block link-hover ts">Your Trusted Tax Consulting Partner"</a>
-            <p class="font-16 font-ks lineh-26 weight-500 color-hp1 margin-b ts">We take pride in the success stories of our clients  trust they place in consult.</p>
-            <a href="blogmiddle.html" class="font-ks font-16 lineh-16 color-h8 weight-700  d-inline-block laearnmore2 ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
-           </div>
-        </div>
-      </div>
-
-
-      <div class="col-lg-4 col-md-6" data-aos="fade-right" data-aos-duration="800">
-        <div class="blog1-boxarea blog7boxarea ">
-          <div class="blog1-img">
-            <img src="assets/images/sectionimg/blog6.png" alt="">
-          </div>
-           <div class="blog1-padding blog8area">
-            <div class="blog1-text">
-                <img src="assets/images/icons/vector1.png" alt="" class="ts">
-                <a href="#" class="color-h7"><p class="font-ks font-16 weight-500 color-h7 lineh-26 ts">02 Nov 2023</p></a>
-            </div>
-            <a href="blogmiddle.html" class="font-lora font-24 lineh-30 weight-500 color-h7 margin-b d-inline-block link-hover ts">Taxes with Professional Consulting and Guidance</a>
-            <p class="font-16 font-ks lineh-26 weight-500 color-hp1 margin-b ts">We take pride in the success stories of our clients  trust they place in consult..</p>
-            <a href="blogmiddle.html" class="font-ks font-16 lineh-16 color-h8 weight-700  d-inline-block laearnmore2 ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
-           </div>
-        </div>
-      </div>
-    </div>
-
-  </div>
-  <img src="assets/images/elementor/elemenotor54.png" alt="" class="elementors15">
-</div>
-<!--===== BLIOG END=======-->
-
 <!--===== CONTACT STARTS=======-->
 <div class="contact8-section-area section-padding5">
   <div class="container">
@@ -976,7 +663,7 @@
                 </div>
                 <div class="icons6list">
                   <h1 class="font-20 weight-600 color39 lineh-20 font-lora margin-b ts">Email us today</h1>
-                  <a href="mailto:info@taxvice.com" class="font-ks font-16 lineh-26 weight-500 colorhp1 ts">info@taxvice.com</a> <br>
+                  <a href="mailto:info@taxvice.com" class="font-ks font-16 lineh-26 weight-500 colorhp1 ts">info@corridorgroupag.com</a> <br>
                   <a href="mailto:Consult@gmail.com" class="font-ks font-16 lineh-26 weight-500 colorhp1 ts">Consult@gmail.com</a>
                 </div>
               </div>

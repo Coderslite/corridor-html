@@ -8,7 +8,7 @@
           <div class="row">
             <div class="col-lg-3">
               <div class="contact5-logo5-text1">
-                <img src="assets/images/logo/logo13.png" alt="">
+                <img src="assets/logo/logo-black.png" style="width:250px;" alt="">
                 <p class="font-ks font-16 weight-500 lineh-26 colorhp1 margin-t margin-b24">Include any additional information that may be relevant or helpful for visitors, such as FAQs, pricing options, or service packages. Provide contact details.</p>
                 <div class="icon-social-links list8">
                   <ul>
@@ -39,7 +39,7 @@
                 <h1 class="font-20 color39 lineh-20 font-ks margin-b24 weight-600">Contact Us</h1>
                 <div class="email4">
                     <img src="assets/images/icons/email5.png" alt="">
-                    <a href="mailto:info@taxvice.com" class="font-16 lineh-24 colorhp1 weight-500 font-ks">info@taxvice.com</a>
+                    <a href="mailto:info@taxvice.com" class="font-16 lineh-24 colorhp1 weight-500 font-ks">info@corridorgroupag.com</a>
                 </div>
                 <span class="location-fooetr ">
                   <img src="assets/images/icons/location4.svg" alt="" class="heightwidth">
