@@ -1,20 +1,10 @@
-/*
-============================
-Name:
-Version: 1.0.0
-Description:
-Author: Abdul Rabby
-Author URI:
-Location:
-============================
-*/
 
 *{
   margin:0;
   padding:0;
   box-sizing: border-box;
 }
-input, textarea, select, option,{
+input, textarea, select, option {
   max-width: 100%;
 }
 
@@ -124,7 +114,7 @@ textarea::placeholder{
   color: #1A237E;
 }
 .color-12{
-  color: #184E77;
+  color: #00844d;
 }
 
 .color-15{
@@ -167,7 +157,7 @@ textarea::placeholder{
   color: #0C161D;
 }
 .color-25{
-  color: #044E7C;
+  color: #00844d;
 }
 .color-26{
   color: #575E63;
@@ -222,7 +212,7 @@ textarea::placeholder{
   color: #0F0A07;
 }
 .color-h8{
-  color: #196C68;
+  color: #00844d;
 }
 .color-hp{
   color: #5F5F5F;
