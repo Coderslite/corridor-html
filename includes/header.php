@@ -74,242 +74,31 @@
               </div>
               <div class="main-menu-ex  homepage8 homepage7 ">
                 <ul>
-                  <li class="mega-dropdawn"><a href="#">Home  <i class="fa-solid fa-angle-down"></i></a> 
-                    <ul class="mega-dropdawn-ul  backgroudnone">
-                      <div class="mega-menu-all">
-                        <div class="row">
-                          <div class="col-lg-3">
-                            <div class="mega-menu-item-box">
-                              <div class="mega-menu-box-img img100">
-                                <img src="assets/images/alldemo/demo4.png" alt="">
-                              </div>
-                              <div class="mega-menu-items-button mega-menu-items-button6">
-                                <a href="index1.html" class="theme-btn11 font-f-3 consultingbtn7"><span class="font-ks font-16 lineh-16 weight-600 color">Multipage <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                                <a href="single-index1.html" class="theme-btn11 font-f-3 consultingbtn7 d-inline-block margin-t"><span class="font-ks font-16 lineh-16 weight-600 color">Landing Page <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                              </div>
-                            </div>
-                            <a href="index1.html" class="font-ks font-40 lineh-52 weight-500 colorhp3 colorpera">Law Consulting O1</a>
-                          </div>
-
-                          <div class="col-lg-3">
-                            <div class="mega-menu-item-box">
-                              <div class="mega-menu-box-img img100">
-                                <img src="assets/images/alldemo/demo7.png" alt="">
-                              </div>
-                              <div class="mega-menu-items-button mega-menu-items-button6">
-                                <a href="index7.html" class="theme-btn11 font-f-3 consultingbtn7"><span class="font-ks font-16 lineh-16 weight-600 color">Multipage <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                                <a href="single-index2.html" class="theme-btn11 font-f-3 consultingbtn7 d-inline-block margin-t"><span class="font-ks font-16 lineh-16 weight-600 color">Landing Page <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                              </div>
-                            </div>
-                            <a href="index7.html" class="font-ks font-40 lineh-52 weight-500 colorhp3 colorpera">Law Consulting O2</a>
-                          </div>
-
-                          <div class="col-lg-3">
-                            <div class="mega-menu-item-box">
-                              <div class="mega-menu-box-img img100">
-                                <img src="assets/images/alldemo/demo2.png" alt="">
-                              </div>
-                              <div class="mega-menu-items-button mega-menu-items-button6">
-                                <a href="index3.html" class="theme-btn11 font-f-3 consultingbtn7"><span class="font-ks font-16 lineh-16 weight-600 color">Multipage <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                                <a href="single-index3.html" class="theme-btn11 font-f-3 consultingbtn7 d-inline-block margin-t"><span class="font-ks font-16 lineh-16 weight-600 color">Landing Page <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                              </div>
-                            </div>
-                            <a href="index3.html" class="font-ks font-40 lineh-52 weight-500 colorhp3 colorpera">Tax Consulting O1</a>
-                          </div>
-
-                          <div class="col-lg-3">
-                            <div class="mega-menu-item-box">
-                              <div class="mega-menu-box-img img100">
-                                <img src="assets/images/alldemo/demo8.png" alt="">
-                              </div>
-                              <div class="mega-menu-items-button mega-menu-items-button6">
-                                <a href="index8.html" class="theme-btn11 font-f-3 consultingbtn7"><span class="font-ks font-16 lineh-16 weight-600 color">Multipage <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                                <a href="single-index4.html" class="theme-btn11 font-f-3 consultingbtn7 d-inline-block margin-t"><span class="font-ks font-16 lineh-16 weight-600 color">Landing Page <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                              </div>
-                            </div>
-                            <a href="index8.html" class="font-ks font-40 lineh-52 weight-500 colorhp3 colorpera">Tax Consulting O2</a>
-                          </div>
-
-                          <div class="col-lg-3">
-                            <div class="space40"></div>
-                            <div class="mega-menu-item-box">
-                              <div class="mega-menu-box-img img100">
-                                <img src="assets/images/alldemo/demo1.png" alt="">
-                              </div>
-                              <div class="mega-menu-items-button mega-menu-items-button6">
-                                <a href="index2.html" class="theme-btn11 font-f-3 consultingbtn7"><span class="font-ks font-16 lineh-16 weight-600 color">Multipage <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                                <a href="single-index5.html" class="theme-btn11 font-f-3 consultingbtn7 d-inline-block margin-t"><span class="font-ks font-16 lineh-16 weight-600 color">Landing Page <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                              </div>
-                            </div>
-                            <a href="index2.html" class="font-ks font-40 lineh-52 weight-500 colorhp3 colorpera">Bussiness Consulting O1</a>
-                          </div>
-
-                          <div class="col-lg-3">
-                            <div class="space40"></div>
-                            <div class="mega-menu-item-box">
-                              <div class="mega-menu-box-img img100">
-                                <img src="assets/images/alldemo/demo5.png" alt="">
-                              </div>
-                              <div class="mega-menu-items-button mega-menu-items-button6">
-                                <a href="index5.html" class="theme-btn11 font-f-3 consultingbtn7"><span class="font-ks font-16 lineh-16 weight-600 color">Multipage <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                                <a href="single-index6.html" class="theme-btn11 font-f-3 consultingbtn7 d-inline-block margin-t"><span class="font-ks font-16 lineh-16 weight-600 color">Landing Page <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                              </div>
-                            </div>
-                            <a href="index5.html" class="font-ks font-40 lineh-52 weight-500 colorhp3 colorpera">Bussiness Consulting O2</a>
-                          </div>
-
-                          <div class="col-lg-3">
-                            <div class="space40"></div>
-                            <div class="mega-menu-item-box">
-                              <div class="mega-menu-box-img img100">
-                                <img src="assets/images/alldemo/demo3.png" alt="">
-                              </div>
-                              <div class="mega-menu-items-button mega-menu-items-button6">
-                                <a href="index4.html" class="theme-btn11 font-f-3 consultingbtn7"><span class="font-ks font-16 lineh-16 weight-600 color">Multipage <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                                <a href="single-index7.html" class="theme-btn11 font-f-3 consultingbtn7 d-inline-block margin-t"><span class="font-ks font-16 lineh-16 weight-600 color">Landing Page <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                              </div>
-                            </div>
-                            <a href="index4.html" class="font-ks font-40 lineh-52 weight-500 colorhp3 colorpera">Finance Consulting O1</a>
-                          </div>
-
-                          <div class="col-lg-3">
-                            <div class="space40"></div>
-                            <div class="mega-menu-item-box">
-                              <div class="mega-menu-box-img img100">
-                                <img src="assets/images/alldemo/demo6.png" alt="">
-                              </div>
-                              <div class="mega-menu-items-button mega-menu-items-button6">
-                                <a href="index6.html" class="theme-btn11 font-f-3 consultingbtn7"><span class="font-ks font-16 lineh-16 weight-600 color">Multipage <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                                <a href="single-index8.html" class="theme-btn11 font-f-3 consultingbtn7 d-inline-block margin-t"><span class="font-ks font-16 lineh-16 weight-600 color">Landing Page <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                              </div>
-                            </div>
-                            <a href="index6.html" class="font-ks font-40 lineh-52 weight-500 colorhp3 colorpera">Finance Consulting O2</a>
-                          </div>
-
-                          <div class="col-lg-3">
-                            <div class="space40"></div>
-                            <div class="mega-menu-item-box">
-                              <div class="mega-menu-box-img img100">
-                                <img src="assets/images/alldemo/demo9.png" alt="">
-                              </div>
-                              <div class="mega-menu-items-button mega-menu-items-button6">
-                                <a href="index9.html" class="theme-btn11 font-f-3 consultingbtn7"><span class="font-ks font-16 lineh-16 weight-600 color">Multipage <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                                <a href="single-index9.html" class="theme-btn11 font-f-3 consultingbtn7 d-inline-block margin-t"><span class="font-ks font-16 lineh-16 weight-600 color">Landing Page <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                              </div>
-                            </div>
-                            <a href="index9.html" class="font-ks font-40 lineh-52 weight-500 colorhp3 colorpera">Insurance Consulting O1</a>
-                          </div>
-
-
-                          <div class="col-lg-3">
-                            <div class="space40"></div>
-                            <div class="mega-menu-item-box">
-                              <div class="mega-menu-box-img img100">
-                                <img src="assets/images/alldemo/demo10.png" alt="">
-                              </div>
-                              <div class="mega-menu-items-button mega-menu-items-button6">
-                                <a href="index10.html" class="theme-btn11 font-f-3 consultingbtn7"><span class="font-ks font-16 lineh-16 weight-600 color">Multipage <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                                <a href="single-index10.html" class="theme-btn11 font-f-3 consultingbtn7 d-inline-block margin-t"><span class="font-ks font-16 lineh-16 weight-600 color">Landing Page <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                              </div>
-                            </div>
-                            <a href="index10.html" class="font-ks font-40 lineh-52 weight-500 colorhp3 colorpera">Insurance Consulting O2</a>
-                          </div>
-
-                          <div class="col-lg-3">
-                            <div class="space40"></div>
-                            <div class="mega-menu-item-box">
-                              <div class="mega-menu-box-img img100">
-                                <img src="assets/images/alldemo/demo11.png" alt="">
-                              </div>
-                              <div class="mega-menu-items-button mega-menu-items-button6">
-                                <a href="index11.html" class="theme-btn11 font-f-3 consultingbtn7"><span class="font-ks font-16 lineh-16 weight-600 color">Multipage <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                                <a href="single-index11.html" class="theme-btn11 font-f-3 consultingbtn7 d-inline-block margin-t"><span class="font-ks font-16 lineh-16 weight-600 color">Landing Page <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                              </div>
-                            </div>
-                            <a href="index11.html" class="font-ks font-40 lineh-52 weight-500 colorhp3 colorpera">Visa Consulting O1</a>
-                          </div>
-
-                          <div class="col-lg-3">
-                            <div class="space40"></div>
-                            <div class="mega-menu-item-box">
-                              <div class="mega-menu-box-img img100">
-                                <img src="assets/images/alldemo/demo12.png" alt="">
-                              </div>
-                              <div class="mega-menu-items-button mega-menu-items-button6">
-                                <a href="index12.html" class="theme-btn11 font-f-3 consultingbtn7"><span class="font-ks font-16 lineh-16 weight-600 color">Multipage <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                                <a href="single-index12.html" class="theme-btn11 font-f-3 consultingbtn7 d-inline-block margin-t"><span class="font-ks font-16 lineh-16 weight-600 color">Landing Page <span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                              </div>
-                            </div>
-                            <a href="index12.html" class="font-ks font-40 lineh-52 weight-500 colorhp3 colorpera">Visa Consulting O2</a>
-                          </div>
-
-                      </div>
-                    </div>
-                    </ul>
-                </li>
-                  <li><a href="about.html" class="font-ks font-16 weight-500 color">About Us</a></li>
-            <li><a href="#" class="font-ks font-16 weight-500 color">Our Services <span><i class="fa-solid fa-angle-down"></i></span></a>
-              <ul class="dropdown-padding">
-                <li><a href="about.html" class="font-ks font-16 weight-500 color"> Our Service <span><i class="fa-solid fa-angle-right"></i></span></a>
-                <ul>
-                    <li><a href="servicev1.html" class="font-ks font-16 weight-500 color">Service V1</a></li>
-                    <li><a href="servicev2.html" class="font-ks font-16 weight-500 color">Service V2</a></li>
-                </ul>
-            </li>
-            <li><a href="about.html" class="font-ks font-16 weight-500 color">Service Details  <span><i class="fa-solid fa-angle-right"></i></span></a>
-                <ul>
-                    <li><a href="serviceleft.html" class="font-ks font-16 weight-500 color">Service Details Left</a></li>
-                    <li><a href="serviceright.html" class="font-ks font-16 weight-500 color">Service Details Right</a></li>
-                    <li><a href="servicemiddle.html" class="font-ks font-16 weight-500 color">Single Service</a></li>
-                </ul>
-            </li>
-       </ul>
-            
-            </li>
-              <li><a href="testimonials.html" class="font-ks font-16 weight-500 color">Case Studies <span><i class="fa-solid fa-angle-down"></i></span></a>
-                <ul>
-                  <li><a href="casestudy1.html" class="font-ks font-16 weight-500 color">Case Study</a></li>
-                  <li><a href="caseleft.html" class="font-ks font-16 weight-500 color">Case Details left</a></li>
-                  <li><a href="caseright.html" class="font-ks font-16 weight-500 color">Case Details Right</a></li>
-                  <li><a href="casemiddle.html" class="font-ks font-16 weight-500 color">Single Case</a></li>
-                </ul>
-              </li>
-                  <li><a href="#" class="font-ks font-16 weight-500 color"> Our Blog <span><i class="fa-solid fa-angle-down"></i></span></a>
-                  <ul>
-                    <li><a href="blog2.html" class="font-ks font-16 weight-500 color">Our Blog <span><i class="fa-solid fa-angle-right"></i></span></a>
+                  <li><a href="#">Home</a> 
+                  </li>
+                  <li><a href="javascript:void();" class="font-ks font-16 weight-500 color">Our Services <span><i class="fa-solid fa-angle-down"></i></span></a>
                     <ul>
-                      <li><a href="blog2.html" class="font-ks font-16 weight-500 color">Blog One</a></li>
-                      <li><a href="blog3.html" class="font-ks font-16 weight-500 color">Blog Two</a></li>
+                      <li><a href="#" class="font-ks font-16 weight-500 color">Asset Management</a></li>
+                      <li><a href="#" class="font-ks font-16 weight-500 color">Reliability Management</a></li>
+                      <li><a href="#" class="font-ks font-16 weight-500 color">Maintenance Management</a></li>
+                      <li><a href="#" class="font-ks font-16 weight-500 color">Project Management</a></li>
+                      <li><a href="#" class="font-ks font-16 weight-500 color">Facilities Management</a></li>
+                      <li><a href="#" class="font-ks font-16 weight-500 color">Business Improvement</a></li>
                     </ul>
                   </li>
-                    <li><a href="blogleft.html" class="font-ks font-16 weight-500 color">Blog Details <span><i class="fa-solid fa-angle-right"></i></span></a>
-                      <ul>
-                        <li><a href="blogleft.html" class="font-ks font-16 weight-500 color">Blog Details Left</a></li>
-                        <li><a href="blogright.html" class="font-ks font-16 weight-500 color">BLog Details Right</a></li>
-                        <li><a href="blogmiddle.html" class="font-ks font-16 weight-500 color">Single Blog</a></li>
-                      </ul>
-                    </li>
-                  </ul>
-                </li>
-                  <li><a href="#" class="font-ks font-16 weight-500 color">Pages <span><i class="fa-solid fa-angle-down"></i></span></a>
-                  <ul>
-                    <li><a href="testimonials.html" class="font-ks font-16 weight-500 color">Testimonials</a></li>
-                    <li><a href="team.html" class="font-ks font-16 weight-500 color">Our Team</a></li>
-                    <li><a href="team-details.html" class="font-ks font-16 weight-500 color">Single Team</a></li>
-                    <li><a href="contact1.html" class="font-ks font-16 weight-500 color">Contact 1</a></li>
-                    <li><a href="contact2.html" class="font-ks font-16 weight-500 color">Contact 2</a></li>
-                  </ul>
+                  <li><a href="javascript:void();" class="font-ks font-16 weight-500 color">Sectors <span><i class="fa-solid fa-angle-down"></i></span></a>
+                    <ul>
+                      <li><a href="#" class="font-ks font-16 weight-500 color">Road & Highway Sector</a></li>
+                      <li><a href="#" class="font-ks font-16 weight-500 color">Technology</a></li>
+                      <li><a href="#" class="font-ks font-16 weight-500 color">Petroleum & Maritime</a></li>
+                      <li><a href="#" class="font-ks font-16 weight-500 color">Healthcare</a></li>
+                      <li><a href="#" class="font-ks font-16 weight-500 color">Rail and Freight</a></li>
+                      <li><a href="#" class="font-ks font-16 weight-500 color">Renewable Energy</a></li>
+                    </ul>
                   </li>
-                  
-                </ul>
-              </div>
-              
-              <div class="contact-3 d-lg-block d-none">
-                <div class="shecdule-btn1">
-                    <a href="contact1.html" class="font-ks font-16 lineh-16 color weight-700 solutions1">Get Tax Advice <span><span><i class="fa-solid fa-arrow-right"></i></span></span></a>
-                </div>
-              </div>
-            </div>
+                  <li><a href="#" class="font-ks font-16 weight-500 color">About</a></li>
+                  <li><a href="#" class="font-ks font-16 weight-500 color">Contact Us</a></li>
+              </ul>
           </div>
         </div>
       </div>
