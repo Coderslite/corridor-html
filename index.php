@@ -20,14 +20,14 @@
                     <div class="welcome-ellips" data-aos="zoom-out" data-aos-duration="1200">
                         <img src="assets/images/background/homepagewelbg.png" alt="" class="homewelbg keyframe3">
 
-                        <div class="elips-icon">
-                            <img src="assets/images/icons/export4.svg" alt="">
+                        <div class="elips-icon" style="background: #00844d;">
+                            <img src="assets/resources/protection.png" style="width: 80px;" alt="">
                         </div>
                     </div>
                     <div class="welcomeellips-icon" >
                         <div class="ellipsarea1">
                             <div class="exportellips">
-                                <img src="assets/images/icons/export5.svg" alt="" class="">
+                                <img src="assets/resources/project-management (1).png" style="width: 50px;" alt="" class="">
                             </div>
                             <img src="assets/images/elementor/elementor61.png" alt="" class="elementor60 keyframe3">
                         </div>
@@ -36,7 +36,7 @@
                     <div class="welcomeellips-icon1">
                         <div class="ellipsarea2">
                             <div class="exportellips">
-                                <img src="assets/images/icons/export6.svg" alt="" class="">
+                                <img src="assets/resources/technology1.png" style="width: 50px;" alt="" class="">
                             </div>
                             <img src="assets/images/elementor/elementor61.png" alt="" class="elementor60 keyframe3">
                         </div>
@@ -46,7 +46,7 @@
                     <div class="welcomeellips-icon2">
                         <div class="ellipsarea3">
                             <div class="exportellips">
-                                <img src="assets/images/icons/export7.svg" alt="" class="">
+                                <img src="assets/resources/assets.png" style="width: 50px;" alt="" class="">
                             </div>
                             <img src="assets/images/elementor/elementor61.png" alt="" class="elementor60 keyframe3">
                         </div>
@@ -56,7 +56,7 @@
                      <div class="welcomeellips-icon3">
                         <div class="ellipsarea4">
                             <div class="exportellips">
-                                <img src="assets/images/icons/export8.svg" alt="" class="">
+                                <img src="assets/resources/drilling-rig.png" style="width: 50px;" alt="" class="">
                             </div>
                             <img src="assets/images/elementor/elementor61.png" alt="" class="elementor60 keyframe3">
                         </div>
@@ -136,7 +136,7 @@
       data-aos-duration="800">
         <div class="service-8-boxarea text-center margin-b30">
           <div class="service-8-icons ts">
-            <img src="assets/images/icons/tax-consulting6.png" alt="" class="ts">
+            <img style="width: 50px;" src="assets/resources/assets_black.png" alt="" class="ts">
           </div>
           <a href="/" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Asset Management</a>
           <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">Our Asset Management services are designed to maximize returns, minimize risks, and optimize the overall performance of your portfolio.</p>
@@ -150,7 +150,7 @@
       data-aos-duration="800">
         <div class="service-8-boxarea text-center margin-b30">
           <div class="service-8-icons ts">
-            <img src="assets/images/icons/taxconsulting1.png" alt="" class="ts">
+            <img style="width: 50px;" src="assets/resources/reliability_management_black.png" alt="" class="ts">
           </div>
           <a href="/" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Reliability Management</a>
           <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">We engineer a seamless synergy between your assets, ensuring consistent performance, reducing downtime, and boosting operational efficiency.</p>
@@ -163,7 +163,7 @@
       data-aos-duration="800">
         <div class="service-8-boxarea text-center margin-b30">
           <div class="service-8-icons ts">
-            <img src="assets/images/icons/tax-consulting2.png" alt="" class="ts">
+            <img style="width: 50px;" src="assets/resources/maintenance_management_black.png" alt="" class="ts">
           </div>
           <a href="/" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Maintenance Management</a>
           <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">Our proactive approach ensures the longevity and efficiency of your assets, minimizing disruptions and maximizing productivity.</p>
@@ -177,7 +177,7 @@
       data-aos-duration="800">
         <div class="service-8-boxarea text-center margin-b30">
           <div class="service-8-icons ts">
-            <img src="assets/images/icons/tax-consulting3.png" alt="" class="ts">
+            <img style="width: 50px;" src="assets/resources/project_management_black.png" alt="" class="ts">
           </div>
           <a href="/" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Project Management</a>
           <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">Corridor Group AG ensures that your projects, from inception to completion, are seamlessly delivered, on time and within budget.</p>
@@ -192,7 +192,7 @@
       data-aos-duration="800">
         <div class="service-8-boxarea text-center margin-b30">
           <div class="service-8-icons ts">
-            <img src="assets/images/icons/tax-consulting4.png" alt="" class="ts">
+            <img style="width: 50px;" src="assets/resources/facility_management_black.png" alt="" class="ts">
           </div>
           <a href="/" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Facilities Management</a>
           <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">We optimize space utilization, enhance operational efficiency, and provide a tailored approach to maintaining your facilities at their peak performance.</p>
@@ -207,17 +207,31 @@
       data-aos-duration="800">
         <div class="service-8-boxarea text-center margin-b30">
           <div class="service-8-icons ts">
-            <img src="assets/images/icons/tax-consulting5.png" alt="" class="ts">
+            <img style="width: 50px;" src="assets/resources/business_improvement_black.png" alt="" class="ts">
           </div>
           <a href="/" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Business Improvement</a>
           <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">We collaborate with you to identify opportunities for growth, innovation, and operational excellence.</p>
           <a href="/" class="font-16 font-ks weight-700 color-h8 lineh-16 home8learn ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
         </div>
       </div>
+      
     </div>
+
+    <center>
+      <div class="theme-btn4 margin-t32 d-inline-block margn-left" data-aos="fade-left" data-aos-duration="1400">
+          <a href="/about" class="font-ks font-16 weight-700 lineh-16 color consulitingbt7 text-right d-inline-block">See More<span class="ml1"><i class="fa-solid fa-arrow-right"></i></span></a>
+      </div>
+    </center>
+
   </div>
 </div>
+
 <!--===== SERVICE END=======-->
+
+
+
+
+
 
 <!--===== SECTOR STARTS=======-->
 <div class="secvice8-section-area section-padding8">
@@ -227,13 +241,132 @@
       <div class="col-lg-7 m-auto">
         <div class="servicve-8-header text-center margin-b60">
           <!-- <span class=" about8 font-ks font-16 lineh-16 color39 weight-500 margin-b20 d-inline-block">Our Services</span> -->
-          <h1 class="font-lora font-44 weight-600 lineh-52 color39 margin-b20">Explore our sectors </h1>
+          <h1 class="font-lora font-44 weight-600 lineh-52 color39 margin-b20">Sectors </h1>
         </div>
       </div>
     </div>
-    <div class="row">
 
-    <div class="col-lg-4 col-md-6" data-aos="zoom-in"
+
+    <!--===== SECTOR STARTS=======-->
+    <div class="casestudy-section-area section-padding5" style="margin-top: -50px;">
+      <div class="container">
+          <div class="row">
+            
+            <div class="col-lg-4" >
+              <div class="single-portfolio singlecase" style="overflow: hidden;">
+                <div class="portfolio-images singleportfolio">
+                  <img src="assets/images/sectionimg/case-img1.png" alt="">
+                </div>
+                <div class="portfolio-textarea">
+                  <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Road & Highway Sector</a></h1>
+                  <p class="font-outfit weight-400 color-17 lineh-26 font-16">Redefine the future of travel with our innovative solutions.</p>
+                  <div class="portfolio-visible-textarea margin-t">
+                      <p class="font-outfit weight-400 color-17 lineh-26 font-16">Corridor Group AG doesn't just build roads; we engineer connections, fostering progress and sustainability in every community we touch.</p>
+                      <a href="casemiddle.html" class="font-16 font-outfit weight-700 color lineh-26 ts text-uppercase margin-t30 d-inline-block learn-more1 learn-more" style="margin-top: -13px;">LEARN MORE <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+
+
+          <div class="col-lg-4" >
+            <div class="single-portfolio singlecase" style="overflow: hidden;">
+              <div class="portfolio-images singleportfolio">
+                <img src="assets/images/sectionimg/case-img2.png" alt="">
+              </div>
+              <div class="portfolio-textarea">
+                <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Technology</a></h1>
+                <p class="font-outfit weight-400 color-17 lineh-26 font-16">Corridor Group AG's cutting-edge tech solutions empower businesses to </p>
+                <div class="portfolio-visible-textarea margin-t">
+                    <p class="font-outfit weight-400 color-17 lineh-26 font-16">lead industries, navigate complexities, and thrive in the ever-evolving digital era. Be a trailblazer in the digital landscape.</p>
+                    <a href="casemiddle.html" class="font-16 font-outfit weight-700 color lineh-26 ts text-uppercase margin-t30 d-inline-block learn-more1 learn-more">LEARN MORE <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+            <div class="col-lg-4" >
+              <div class="single-portfolio singlecase" style="overflow: hidden;">
+                <div class="portfolio-images singleportfolio">
+                  <img src="assets/images/sectionimg/case-img3.png" alt="">
+                </div>
+                <div class="portfolio-textarea">
+                  <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Petroleum & Maritime</a></h1>
+                  <p class="font-outfit weight-400 color-17 lineh-26 font-16">Navigate industry challenges with confidence.</p>
+                  <div class="portfolio-visible-textarea margin-t">
+                      <p class="font-outfit weight-400 color-17 lineh-26 font-16">Our specialized services not only ensure compliance but unlock opportunities, empowering your operations in the dynamic realms of petroleum and maritime.</p>
+                      <a href="casemiddle.html" class="font-16 font-outfit weight-700 color lineh-26 ts text-uppercase margin-t30 d-inline-block learn-more1 learn-more" style="margin-top: -13px;">LEARN MORE <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+
+
+            <div class="col-lg-4" >
+              <div class="single-portfolio singlecase" style="overflow: hidden;">
+                <div class="portfolio-images singleportfolio">
+                  <img src="assets/images/sectionimg/case-img4.png" alt="">
+                </div>
+                <div class="portfolio-textarea">
+                  <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Healthcare</a></h1>
+                  <p class="font-outfit weight-400 color-17 lineh-26 font-16">Join the ranks of industry leaders by optimizing healthcare operations.</p>
+                  <div class="portfolio-visible-textarea margin-t">
+                      <p class="font-outfit weight-400 color-17 lineh-26 font-16">Our tailored solutions ensure top-notch patient care, driving positive outcomes and contributing to a healthier, thriving society.</p>
+                      <a href="casemiddle.html" class="font-16 font-outfit weight-700 color lineh-26 ts text-uppercase margin-t30 d-inline-block learn-more1 learn-more">LEARN MORE <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+
+
+          <div class="col-lg-4" >
+            <div class="single-portfolio singlecase" style="overflow: hidden;">
+              <div class="portfolio-images singleportfolio">
+                <img src="assets/images/sectionimg/case-img5.png" alt="">
+              </div>
+              <div class="portfolio-textarea">
+                <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Rail and Freight</a></h1>
+                <p class="font-outfit weight-400 color-17 lineh-26 font-16">Corridor Group AG's strategic project management and maintenance services</p>
+                <div class="portfolio-visible-textarea margin-t">
+                    <p class="font-outfit weight-400 color-17 lineh-26 font-16">Ensure seamless freight movement, contributing to global connectivity and business success.</p>
+                    <a href="casemiddle.html" class="font-16 font-outfit weight-700 color lineh-26 ts text-uppercase margin-t30 d-inline-block learn-more1 learn-more">LEARN MORE <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="col-lg-4" >
+            <div class="single-portfolio singlecase" style="overflow: hidden;">
+              <div class="portfolio-images singleportfolio">
+                <img src="assets/images/sectionimg/case-img9.png" alt="">
+              </div>
+              <div class="portfolio-textarea">
+                <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Renewable Energy</a></h1>
+                <p class="font-outfit weight-400 color-17 lineh-26 font-16">Corridor Group AG is at the forefront of the green revolution, </p>
+                <div class="portfolio-visible-textarea margin-t">
+                    <p class="font-outfit weight-400 color-17 lineh-26 font-16">Offering innovative strategies to harness renewable resources, reduce carbon footprints, and power a cleaner, brighter future.</p>
+                    <a href="casemiddle.html" class="font-16 font-outfit weight-700 color lineh-26 ts text-uppercase margin-t30 d-inline-block learn-more1 learn-more" style="margin-top: -13px;">LEARN MORE <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+
+      </div>
+    </div>
+    <!--===== SECTOR END=======-->
+
+
+
+
+    <!--<div class="row">
+     <div class="col-lg-4 col-md-6" data-aos="zoom-in"
       data-aos-easing="linear"
       data-aos-duration="800">
         <div class="service-8-boxarea text-center margin-b30">
@@ -316,7 +449,7 @@
           <a href="/" class="font-16 font-ks weight-700 color-h8 lineh-16 home8learn ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
         </div>
       </div>
-    </div>
+    </div> -->
   </div>
 </div>
 <!--===== SECTOR END=======-->
