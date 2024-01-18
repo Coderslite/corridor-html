@@ -18,106 +18,132 @@
 <div class="secvice8-section-area section-padding8">
   <img src="assets/images/elementor/elementor51.png" alt="" class="elementors14">
   <div class="container">
-    <div class="row">
-      <div class="col-lg-7 m-auto">
-        <div class="servicve-8-header text-center margin-b60">
-          <!-- <span class=" about8 font-ks font-16 lineh-16 color39 weight-500 margin-b20 d-inline-block">Our Services</span> -->
-          <h1 class="font-lora font-44 weight-600 lineh-52 color39 margin-b20">Explor our Sectors</h1>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-
-    <div class="col-lg-4 col-md-6" data-aos="zoom-in"
-      data-aos-easing="linear"
-      data-aos-duration="800">
-        <div class="service-8-boxarea text-center margin-b30">
-          <div class="service-8-icons ts">
-            <img src="assets/images/icons/tax-consulting6.png" alt="" class="ts">
+      <div class="row">
+        <div class="col-lg-7 m-auto">
+          <div class="servicve-8-header text-center margin-b60">
+            <!-- <span class=" about8 font-ks font-16 lineh-16 color39 weight-500 margin-b20 d-inline-block">Our Services</span> -->
+            <h1 class="font-lora font-44 weight-600 lineh-52 color39 margin-b20">Our Sectors </h1>
           </div>
-          <a href="servicemiddle.html" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Road & Highway Sector</a>
-          <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">Tax consultants can help individual and businesses develop effective tax planning strategies to reduce tax liabilities legally.</p>
-          <a href="servicemiddle.html" class="font-16 font-ks weight-700 color-h8 lineh-16 home8learn ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
         </div>
       </div>
 
 
-      <div class="col-lg-4 col-md-6" data-aos="zoom-in"
-      data-aos-easing="linear"
-      data-aos-duration="800">
-        <div class="service-8-boxarea text-center margin-b30">
-          <div class="service-8-icons ts">
-            <img src="assets/images/icons/taxconsulting1.png" alt="" class="ts">
+      <!--===== SECTOR STARTS=======-->
+      <div class="casestudy-section-area section-padding5"  style="margin-top: -50px;">
+          <div class="container">
+              <div class="row">
+                
+                <div class="col-lg-4" >
+                  <div class="single-portfolio singlecase" style="overflow: hidden;">
+                    <div class="portfolio-images singleportfolio">
+                      <img src="assets/images/sectionimg/case-img1.png" alt="">
+                    </div>
+                    <div class="portfolio-textarea" style="margin-left: -30px;">
+                      <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Road & Highway Sector</a></h1>
+                      <p class="font-outfit weight-400 color-17 lineh-26 font-16">Redefine the future of travel with our innovative solutions.</p>
+                      <div class="portfolio-visible-textarea margin-t">
+                          <p class="font-outfit weight-400 color-17 lineh-26 font-16">Corridor Group AG doesn't just build roads; we engineer connections, fostering progress and sustainability in every community we touch.</p>
+                          <a href="casemiddle.html" class="font-16 font-outfit weight-700 color lineh-26 ts text-uppercase margin-t30 d-inline-block learn-more1 learn-more" style="margin-top: -13px;">LEARN MORE <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
+                      </div>
+                    </div>
+        
+                  </div>
+                </div>
+
+
+              <div class="col-lg-4" >
+                <div class="single-portfolio singlecase" style="overflow: hidden;">
+                  <div class="portfolio-images singleportfolio">
+                    <img src="assets/images/sectionimg/case-img2.png" alt="">
+                  </div>
+                  <div class="portfolio-textarea" style="margin-left: -30px;">
+                    <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Technology</a></h1>
+                    <p class="font-outfit weight-400 color-17 lineh-26 font-16">Corridor Group AG's cutting-edge tech solutions empower businesses to </p>
+                    <div class="portfolio-visible-textarea margin-t">
+                        <p class="font-outfit weight-400 color-17 lineh-26 font-16">lead industries, navigate complexities, and thrive in the ever-evolving digital era. Be a trailblazer in the digital landscape.</p>
+                        <a href="casemiddle.html" class="font-16 font-outfit weight-700 color lineh-26 ts text-uppercase margin-t30 d-inline-block learn-more1 learn-more">LEARN MORE <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
+                    </div>
+                  </div>
+      
+                </div>
+              </div>
+
+                <div class="col-lg-4" >
+                  <div class="single-portfolio singlecase" style="overflow: hidden;">
+                    <div class="portfolio-images singleportfolio">
+                      <img src="assets/images/sectionimg/case-img3.png" alt="">
+                    </div>
+                    <div class="portfolio-textarea" style="margin-left: -30px;">
+                      <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Petroleum & Maritime</a></h1>
+                      <p class="font-outfit weight-400 color-17 lineh-26 font-16">Navigate industry challenges with confidence.</p>
+                      <div class="portfolio-visible-textarea margin-t">
+                          <p class="font-outfit weight-400 color-17 lineh-26 font-16">Our specialized services not only ensure compliance but unlock opportunities, empowering your operations in the dynamic realms of petroleum and maritime.</p>
+                          <a href="casemiddle.html" class="font-16 font-outfit weight-700 color lineh-26 ts text-uppercase margin-t30 d-inline-block learn-more1 learn-more" style="margin-top: -13px;">LEARN MORE <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
+                      </div>
+                    </div>
+        
+                  </div>
+                </div>
+
+
+                <div class="col-lg-4" >
+                  <div class="single-portfolio singlecase" style="overflow: hidden;">
+                    <div class="portfolio-images singleportfolio">
+                      <img src="assets/images/sectionimg/case-img4.png" alt="">
+                    </div>
+                    <div class="portfolio-textarea" style="margin-left: -30px;">
+                      <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Healthcare</a></h1>
+                      <p class="font-outfit weight-400 color-17 lineh-26 font-16">Join the ranks of industry leaders by optimizing healthcare operations.</p>
+                      <div class="portfolio-visible-textarea margin-t">
+                          <p class="font-outfit weight-400 color-17 lineh-26 font-16">Our tailored solutions ensure top-notch patient care, driving positive outcomes and contributing to a healthier, thriving society.</p>
+                          <a href="casemiddle.html" class="font-16 font-outfit weight-700 color lineh-26 ts text-uppercase margin-t30 d-inline-block learn-more1 learn-more">LEARN MORE <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
+                      </div>
+                    </div>
+        
+                  </div>
+                </div>
+
+
+              <div class="col-lg-4" >
+                <div class="single-portfolio singlecase" style="overflow: hidden;">
+                  <div class="portfolio-images singleportfolio">
+                    <img src="assets/images/sectionimg/case-img5.png" alt="">
+                  </div>
+                  <div class="portfolio-textarea" style="margin-left: -30px;">
+                    <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Rail and Freight</a></h1>
+                    <p class="font-outfit weight-400 color-17 lineh-26 font-16">Corridor Group AG's strategic project management and maintenance services</p>
+                    <div class="portfolio-visible-textarea margin-t">
+                        <p class="font-outfit weight-400 color-17 lineh-26 font-16">Ensure seamless freight movement, contributing to global connectivity and business success.</p>
+                        <a href="casemiddle.html" class="font-16 font-outfit weight-700 color lineh-26 ts text-uppercase margin-t30 d-inline-block learn-more1 learn-more">LEARN MORE <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
+                    </div>
+                  </div>
+      
+                </div>
+              </div>
+
+              <div class="col-lg-4" >
+                <div class="single-portfolio singlecase" style="overflow: hidden;">
+                  <div class="portfolio-images singleportfolio">
+                    <img src="assets/images/sectionimg/case-img9.png" alt="">
+                  </div>
+                  <div class="portfolio-textarea" style="margin-left: -30px;">
+                    <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Renewable Energy</a></h1>
+                    <p class="font-outfit weight-400 color-17 lineh-26 font-16">Corridor Group AG is at the forefront of the green revolution, </p>
+                    <div class="portfolio-visible-textarea margin-t">
+                        <p class="font-outfit weight-400 color-17 lineh-26 font-16">Offering innovative strategies to harness renewable resources, reduce carbon footprints, and power a cleaner, brighter future.</p>
+                        <a href="casemiddle.html" class="font-16 font-outfit weight-700 color lineh-26 ts text-uppercase margin-t30 d-inline-block learn-more1 learn-more" style="margin-top: -13px;">LEARN MORE <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
+                    </div>
+                  </div>
+      
+                </div>
+              </div>
+
+
           </div>
-          <a href="servicemiddle.html" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Technology</a>
-          <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">Tax consultants can help individual and businesses develop effective tax planning strategies to reduce tax liabilities legally.</p>
-          <a href="servicemiddle.html" class="font-16 font-ks weight-700 color-h8 lineh-16 home8learn ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
-        </div>
       </div>
+      <!--===== SECTOR END=======-->
 
-      <div class="col-lg-4 col-md-6" data-aos="zoom-in"
-      data-aos-easing="linear"
-      data-aos-duration="800">
-        <div class="service-8-boxarea text-center margin-b30">
-          <div class="service-8-icons ts">
-            <img src="assets/images/icons/tax-consulting2.png" alt="" class="ts">
-          </div>
-          <a href="servicemiddle.html" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Petroleum & Maritime</a>
-          <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">Tax consultants can help individual and businesses develop effective tax planning strategies to reduce tax liabilities legally.</p>
-          <a href="servicemiddle.html" class="font-16 font-ks weight-700 color-h8 lineh-16 home8learn ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
-        </div>
-      </div>
-
-
-      <div class="col-lg-4 col-md-6" data-aos="zoom-in"
-      data-aos-easing="linear"
-      data-aos-duration="800">
-        <div class="service-8-boxarea text-center margin-b30">
-          <div class="service-8-icons ts">
-            <img src="assets/images/icons/tax-consulting3.png" alt="" class="ts">
-          </div>
-          <a href="servicemiddle.html" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Healthcare</a>
-          <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">Tax consultants can help individual and businesses develop effective tax planning strategies to reduce tax liabilities legally.</p>
-          <a href="servicemiddle.html" class="font-16 font-ks weight-700 color-h8 lineh-16 home8learn ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
-        </div>
-      </div>
-
-
-
-      <div class="col-lg-4 col-md-6" data-aos="zoom-in"
-      data-aos-easing="linear"
-      data-aos-duration="800">
-        <div class="service-8-boxarea text-center margin-b30">
-          <div class="service-8-icons ts">
-            <img src="assets/images/icons/tax-consulting4.png" alt="" class="ts">
-          </div>
-          <a href="servicemiddle.html" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Rail and Freight</a>
-          <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">Tax consultants can help individual and businesses develop effective tax planning strategies to reduce tax liabilities legally.</p>
-          <a href="servicemiddle.html" class="font-16 font-ks weight-700 color-h8 lineh-16 home8learn ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
-        </div>
-      </div>
-
-
-
-      <div class="col-lg-4 col-md-6" data-aos="zoom-in"
-      data-aos-easing="linear"
-      data-aos-duration="800">
-        <div class="service-8-boxarea text-center margin-b30">
-          <div class="service-8-icons ts">
-            <img src="assets/images/icons/tax-consulting5.png" alt="" class="ts">
-          </div>
-          <a href="servicemiddle.html" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Renewable Energy</a>
-          <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">Tax consultants can help individual and businesses develop effective tax planning strategies to reduce tax liabilities legally.</p>
-          <a href="servicemiddle.html" class="font-16 font-ks weight-700 color-h8 lineh-16 home8learn ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
-        </div>
-      </div>
-
-      <div class="col-lg-12 text-center">
-       <div class="service8-btn margin-t32" data-aos="fade-up" data-aos-duration="1200">
-        <a href="about.php" class="font-ks font-16 weight-700 lineh-16 color consulitingbt7 text-right d-inline-block">Exploer Our Sectors<span><i class="fa-solid fa-arrow-right"></i></span></a>
-       </div>
-      </div>
-    </div>
+    
   </div>
 </div>
 <!--===== SECTOR END=======-->

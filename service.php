@@ -23,6 +23,7 @@
         <div class="servicve-8-header text-center margin-b60">
           <!-- <span class=" about8 font-ks font-16 lineh-16 color39 weight-500 margin-b20 d-inline-block">Our Services</span> -->
           <h1 class="font-lora font-44 weight-600 lineh-52 color39 margin-b20">Our Services</h1>
+          <p>Unlock Your Business Potential</p>
         </div>
       </div>
     </div>
@@ -35,9 +36,9 @@
           <div class="service-8-icons ts">
             <img src="assets/images/icons/tax-consulting6.png" alt="" class="ts">
           </div>
-          <a href="servicemiddle.html" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Asset Management</a>
-          <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">Tax consultants can help individual and businesses develop effective tax planning strategies to reduce tax liabilities legally.</p>
-          <a href="servicemiddle.html" class="font-16 font-ks weight-700 color-h8 lineh-16 home8learn ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
+          <a href="/" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Asset Management</a>
+          <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">Our Asset Management services are designed to maximize returns, minimize risks, and optimize the overall performance of your portfolio.</p>
+          <a href="/" class="font-16 font-ks weight-700 color-h8 lineh-16 home8learn ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
         </div>
       </div>
 
@@ -49,9 +50,9 @@
           <div class="service-8-icons ts">
             <img src="assets/images/icons/taxconsulting1.png" alt="" class="ts">
           </div>
-          <a href="servicemiddle.html" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Reliability Management</a>
-          <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">Tax consultants can help individual and businesses develop effective tax planning strategies to reduce tax liabilities legally.</p>
-          <a href="servicemiddle.html" class="font-16 font-ks weight-700 color-h8 lineh-16 home8learn ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
+          <a href="/" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Reliability Management</a>
+          <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">We engineer a seamless synergy between your assets, ensuring consistent performance, reducing downtime, and boosting operational efficiency.</p>
+          <a href="/" class="font-16 font-ks weight-700 color-h8 lineh-16 home8learn ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
         </div>
       </div>
 
@@ -62,9 +63,9 @@
           <div class="service-8-icons ts">
             <img src="assets/images/icons/tax-consulting2.png" alt="" class="ts">
           </div>
-          <a href="servicemiddle.html" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Maintenance Management</a>
-          <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">Tax consultants can help individual and businesses develop effective tax planning strategies to reduce tax liabilities legally.</p>
-          <a href="servicemiddle.html" class="font-16 font-ks weight-700 color-h8 lineh-16 home8learn ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
+          <a href="/" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Maintenance Management</a>
+          <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">Our proactive approach ensures the longevity and efficiency of your assets, minimizing disruptions and maximizing productivity.</p>
+          <a href="/" class="font-16 font-ks weight-700 color-h8 lineh-16 home8learn ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
         </div>
       </div>
 
@@ -76,9 +77,9 @@
           <div class="service-8-icons ts">
             <img src="assets/images/icons/tax-consulting3.png" alt="" class="ts">
           </div>
-          <a href="servicemiddle.html" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Project Management</a>
-          <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">Tax consultants can help individual and businesses develop effective tax planning strategies to reduce tax liabilities legally.</p>
-          <a href="servicemiddle.html" class="font-16 font-ks weight-700 color-h8 lineh-16 home8learn ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
+          <a href="/" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Project Management</a>
+          <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">Corridor Group AG ensures that your projects, from inception to completion, are seamlessly delivered, on time and within budget.</p>
+          <a href="/" class="font-16 font-ks weight-700 color-h8 lineh-16 home8learn ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
         </div>
       </div>
 
@@ -91,9 +92,9 @@
           <div class="service-8-icons ts">
             <img src="assets/images/icons/tax-consulting4.png" alt="" class="ts">
           </div>
-          <a href="servicemiddle.html" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Facilities Management</a>
-          <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">Tax consultants can help individual and businesses develop effective tax planning strategies to reduce tax liabilities legally.</p>
-          <a href="servicemiddle.html" class="font-16 font-ks weight-700 color-h8 lineh-16 home8learn ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
+          <a href="/" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Facilities Management</a>
+          <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">We optimize space utilization, enhance operational efficiency, and provide a tailored approach to maintaining your facilities at their peak performance.</p>
+          <a href="/" class="font-16 font-ks weight-700 color-h8 lineh-16 home8learn ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
         </div>
       </div>
 
@@ -106,16 +107,10 @@
           <div class="service-8-icons ts">
             <img src="assets/images/icons/tax-consulting5.png" alt="" class="ts">
           </div>
-          <a href="servicemiddle.html" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Business Improvement</a>
-          <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">Tax consultants can help individual and businesses develop effective tax planning strategies to reduce tax liabilities legally.</p>
-          <a href="servicemiddle.html" class="font-16 font-ks weight-700 color-h8 lineh-16 home8learn ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
+          <a href="/" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Business Improvement</a>
+          <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">We collaborate with you to identify opportunities for growth, innovation, and operational excellence.</p>
+          <a href="/" class="font-16 font-ks weight-700 color-h8 lineh-16 home8learn ts">Learn More <span><i class="fa-solid fa-arrow-right"></i></span></a>
         </div>
-      </div>
-
-      <div class="col-lg-12 text-center">
-       <div class="service8-btn margin-t32" data-aos="fade-up" data-aos-duration="1200">
-        <a href="about.php" class="font-ks font-16 weight-700 lineh-16 color consulitingbt7 text-right d-inline-block">Exploer Our Services<span><i class="fa-solid fa-arrow-right"></i></span></a>
-       </div>
       </div>
     </div>
   </div>
