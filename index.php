@@ -257,7 +257,7 @@
                 <div class="portfolio-images singleportfolio">
                   <img src="assets/images/sectionimg/case-img1.png" alt="">
                 </div>
-                <div class="portfolio-textarea" style="margin-left: -30px;">
+                <div class="portfolio-textarea">
                   <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Road & Highway Sector</a></h1>
                   <p class="font-outfit weight-400 color-17 lineh-26 font-16">Redefine the future of travel with our innovative solutions.</p>
                   <div class="portfolio-visible-textarea margin-t">
@@ -275,7 +275,7 @@
               <div class="portfolio-images singleportfolio">
                 <img src="assets/images/sectionimg/case-img2.png" alt="">
               </div>
-              <div class="portfolio-textarea" style="margin-left: -30px;">
+              <div class="portfolio-textarea">
                 <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Technology</a></h1>
                 <p class="font-outfit weight-400 color-17 lineh-26 font-16">Corridor Group AG's cutting-edge tech solutions empower businesses to </p>
                 <div class="portfolio-visible-textarea margin-t">
@@ -292,7 +292,7 @@
                 <div class="portfolio-images singleportfolio">
                   <img src="assets/images/sectionimg/case-img3.png" alt="">
                 </div>
-                <div class="portfolio-textarea" style="margin-left: -30px;">
+                <div class="portfolio-textarea">
                   <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Petroleum & Maritime</a></h1>
                   <p class="font-outfit weight-400 color-17 lineh-26 font-16">Navigate industry challenges with confidence.</p>
                   <div class="portfolio-visible-textarea margin-t">
@@ -310,7 +310,7 @@
                 <div class="portfolio-images singleportfolio">
                   <img src="assets/images/sectionimg/case-img4.png" alt="">
                 </div>
-                <div class="portfolio-textarea" style="margin-left: -30px;">
+                <div class="portfolio-textarea">
                   <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Healthcare</a></h1>
                   <p class="font-outfit weight-400 color-17 lineh-26 font-16">Join the ranks of industry leaders by optimizing healthcare operations.</p>
                   <div class="portfolio-visible-textarea margin-t">
@@ -328,7 +328,7 @@
               <div class="portfolio-images singleportfolio">
                 <img src="assets/images/sectionimg/case-img5.png" alt="">
               </div>
-              <div class="portfolio-textarea" style="margin-left: -30px;">
+              <div class="portfolio-textarea">
                 <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Rail and Freight</a></h1>
                 <p class="font-outfit weight-400 color-17 lineh-26 font-16">Corridor Group AG's strategic project management and maintenance services</p>
                 <div class="portfolio-visible-textarea margin-t">
@@ -345,7 +345,7 @@
               <div class="portfolio-images singleportfolio">
                 <img src="assets/images/sectionimg/case-img9.png" alt="">
               </div>
-              <div class="portfolio-textarea" style="margin-left: -30px;">
+              <div class="portfolio-textarea">
                 <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Renewable Energy</a></h1>
                 <p class="font-outfit weight-400 color-17 lineh-26 font-16">Corridor Group AG is at the forefront of the green revolution, </p>
                 <div class="portfolio-visible-textarea margin-t">
