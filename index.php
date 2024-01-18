@@ -20,14 +20,14 @@
                     <div class="welcome-ellips" data-aos="zoom-out" data-aos-duration="1200">
                         <img src="assets/images/background/homepagewelbg.png" alt="" class="homewelbg keyframe3">
 
-                        <div class="elips-icon">
-                            <img src="assets/images/icons/export4.svg" alt="">
+                        <div class="elips-icon" style="background: #00844d;">
+                            <img src="assets/resources/protection.png" style="width: 80px;" alt="">
                         </div>
                     </div>
                     <div class="welcomeellips-icon" >
                         <div class="ellipsarea1">
                             <div class="exportellips">
-                                <img src="assets/images/icons/export5.svg" alt="" class="">
+                                <img src="assets/resources/project-management (1).png" style="width: 50px;" alt="" class="">
                             </div>
                             <img src="assets/images/elementor/elementor61.png" alt="" class="elementor60 keyframe3">
                         </div>
@@ -36,7 +36,7 @@
                     <div class="welcomeellips-icon1">
                         <div class="ellipsarea2">
                             <div class="exportellips">
-                                <img src="assets/images/icons/export6.svg" alt="" class="">
+                                <img src="assets/resources/technology1.png" style="width: 50px;" alt="" class="">
                             </div>
                             <img src="assets/images/elementor/elementor61.png" alt="" class="elementor60 keyframe3">
                         </div>
@@ -46,7 +46,7 @@
                     <div class="welcomeellips-icon2">
                         <div class="ellipsarea3">
                             <div class="exportellips">
-                                <img src="assets/images/icons/export7.svg" alt="" class="">
+                                <img src="assets/resources/assets.png" style="width: 50px;" alt="" class="">
                             </div>
                             <img src="assets/images/elementor/elementor61.png" alt="" class="elementor60 keyframe3">
                         </div>
@@ -56,7 +56,7 @@
                      <div class="welcomeellips-icon3">
                         <div class="ellipsarea4">
                             <div class="exportellips">
-                                <img src="assets/images/icons/export8.svg" alt="" class="">
+                                <img src="assets/resources/drilling-rig.png" style="width: 50px;" alt="" class="">
                             </div>
                             <img src="assets/images/elementor/elementor61.png" alt="" class="elementor60 keyframe3">
                         </div>
@@ -136,7 +136,7 @@
       data-aos-duration="800">
         <div class="service-8-boxarea text-center margin-b30">
           <div class="service-8-icons ts">
-            <img src="assets/images/icons/tax-consulting6.png" alt="" class="ts">
+            <img style="width: 50px;" src="assets/resources/assets_black.png" alt="" class="ts">
           </div>
           <a href="/" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Asset Management</a>
           <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">Our Asset Management services are designed to maximize returns, minimize risks, and optimize the overall performance of your portfolio.</p>
@@ -150,7 +150,7 @@
       data-aos-duration="800">
         <div class="service-8-boxarea text-center margin-b30">
           <div class="service-8-icons ts">
-            <img src="assets/images/icons/taxconsulting1.png" alt="" class="ts">
+            <img style="width: 50px;" src="assets/resources/reliability_management_black.png" alt="" class="ts">
           </div>
           <a href="/" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Reliability Management</a>
           <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">We engineer a seamless synergy between your assets, ensuring consistent performance, reducing downtime, and boosting operational efficiency.</p>
@@ -163,7 +163,7 @@
       data-aos-duration="800">
         <div class="service-8-boxarea text-center margin-b30">
           <div class="service-8-icons ts">
-            <img src="assets/images/icons/tax-consulting2.png" alt="" class="ts">
+            <img style="width: 50px;" src="assets/resources/maintenance_management_black.png" alt="" class="ts">
           </div>
           <a href="/" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Maintenance Management</a>
           <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">Our proactive approach ensures the longevity and efficiency of your assets, minimizing disruptions and maximizing productivity.</p>
@@ -177,7 +177,7 @@
       data-aos-duration="800">
         <div class="service-8-boxarea text-center margin-b30">
           <div class="service-8-icons ts">
-            <img src="assets/images/icons/tax-consulting3.png" alt="" class="ts">
+            <img style="width: 50px;" src="assets/resources/project_management_black.png" alt="" class="ts">
           </div>
           <a href="/" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Project Management</a>
           <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">Corridor Group AG ensures that your projects, from inception to completion, are seamlessly delivered, on time and within budget.</p>
@@ -192,7 +192,7 @@
       data-aos-duration="800">
         <div class="service-8-boxarea text-center margin-b30">
           <div class="service-8-icons ts">
-            <img src="assets/images/icons/tax-consulting4.png" alt="" class="ts">
+            <img style="width: 50px;" src="assets/resources/facility_management_black.png" alt="" class="ts">
           </div>
           <a href="/" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Facilities Management</a>
           <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">We optimize space utilization, enhance operational efficiency, and provide a tailored approach to maintaining your facilities at their peak performance.</p>
@@ -207,7 +207,7 @@
       data-aos-duration="800">
         <div class="service-8-boxarea text-center margin-b30">
           <div class="service-8-icons ts">
-            <img src="assets/images/icons/tax-consulting5.png" alt="" class="ts">
+            <img style="width: 50px;" src="assets/resources/business_improvement_black.png" alt="" class="ts">
           </div>
           <a href="/" class="font-lora font-24 lineh-24 weight-600 color39 d-inline-block margin-b ts">Business Improvement</a>
           <p class="font-ks font-16 weight-500 colorhp1 lineh-26 margin-b24 ts">We collaborate with you to identify opportunities for growth, innovation, and operational excellence.</p>
