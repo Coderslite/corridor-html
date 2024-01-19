@@ -255,7 +255,7 @@
             <div class="col-lg-4" >
               <div class="single-portfolio singlecase" style="overflow: hidden;">
                 <div class="portfolio-images singleportfolio">
-                  <img src="assets/images/bg/road.png" alt="">
+                  <img src="assets/images/bg/road2.png" alt="">
                 </div>
                 <div class="portfolio-textarea">
                   <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Road & Highway Sector</a></h1>

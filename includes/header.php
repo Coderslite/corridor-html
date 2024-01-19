@@ -131,12 +131,12 @@
                   </li>
                   <li><a href="sector.php" class="font-ks font-16 weight-500 color">Sectors <span><i class="fa-solid fa-angle-down"></i></span></a>
                     <ul>
-                      <li><a href="#" class="font-ks font-16 weight-500 color">Road & Highway Sector</a></li>
-                      <li><a href="#" class="font-ks font-16 weight-500 color">Technology</a></li>
-                      <li><a href="#" class="font-ks font-16 weight-500 color">Petroleum & Maritime</a></li>
-                      <li><a href="#" class="font-ks font-16 weight-500 color">Healthcare</a></li>
-                      <li><a href="#" class="font-ks font-16 weight-500 color">Rail and Freight</a></li>
-                      <li><a href="#" class="font-ks font-16 weight-500 color">Renewable Energy</a></li>
+                      <li><a href="road-and-highway.php" class="font-ks font-16 weight-500 color">Road & Highway Sector</a></li>
+                      <li><a href="technology.php" class="font-ks font-16 weight-500 color">Technology</a></li>
+                      <li><a href="petroleum-and-maritime.php" class="font-ks font-16 weight-500 color">Petroleum & Maritime</a></li>
+                      <li><a href="health.php" class="font-ks font-16 weight-500 color">Healthcare</a></li>
+                      <li><a href="rail-and-freight.php" class="font-ks font-16 weight-500 color">Rail and Freight</a></li>
+                      <li><a href="renewable-energy.php" class="font-ks font-16 weight-500 color">Renewable Energy</a></li>
                     </ul>
                   </li>
                   <li><a href="about.php" class="font-ks font-16 weight-500 color">About</a></li>

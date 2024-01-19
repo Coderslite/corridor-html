@@ -1,7 +1,7 @@
 <?php include "includes/header.php";?>
 
 
-<div class="welcome-eightsection-area">
+<div class="welcome-eightsection-area" style="background-image: url('assets/images/bg/road2.jpg');">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6">
@@ -21,7 +21,7 @@
             <div class="col-lg-1"></div>
             <div class="col-lg-10">
               <div class="serviceauthior-area p-0">
-                <img src="assets/images/sectionimg/caseleftimg1.png" alt="">
+                <img src="assets/images/bg/road2.jpg" alt="">
                 <h1 class="font-lora font-40 lineh-50 weight-600 color-29 margin-b20 margin-t28">Driving Sustainable growth</h1>
                 <p class="font-ks font-16 lineh-26 weight-500 color-30 margin-b20">Corridor Group AG is your compass in the world of highway development. We offer insightful investment advisory services, guiding you towards projects that not only promise financial rewards but also contribute to sustainable, resilient, and well-connected communities.</p>
 

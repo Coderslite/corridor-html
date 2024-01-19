@@ -1,7 +1,7 @@
 <?php include "includes/header.php";?>
 
 
-<div class="welcome-eightsection-area">
+<div class="welcome-eightsection-area" style="background-image: url('assets/images/bg/rail_freight.jpg');">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6">
@@ -21,7 +21,7 @@
             <div class="col-lg-1"></div>
             <div class="col-lg-10">
               <div class="serviceauthior-area p-0">
-                <img src="assets/images/sectionimg/caseleftimg1.png" alt="">
+                <img src="assets/images/bg/rail_freight.jpg" alt="">
                 <h1 class="font-lora font-40 lineh-50 weight-600 color-29 margin-b20 margin-t28">Mastering the Backbone of Global Trade</h1>
                 <p class="font-ks font-16 lineh-26 weight-500 color-30 margin-b20">Corridor Group AG opens doors to a comprehensive global logistics nexus. Leverage our connections in pivotal logistics markets, ensuring diversified and strategic investments in rail and freight. Our consultancy team comprises industry architects and experts with hands-on experience in rail and freight. Harness their expertise for informed decision-making, staying ahead of logistics trends, and navigating regulatory landscapes.</p>
 
