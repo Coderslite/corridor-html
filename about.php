@@ -1,7 +1,7 @@
 <?php include "includes/header.php";?>
 
 <!--===== WElCOME STARTS=======-->
-<div class="welcome-eightsection-area">
+<div class="welcome-eightsection-area" style="background-image: url('assets/images/bg/bg2.jpg');">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6">

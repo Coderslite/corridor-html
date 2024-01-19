@@ -20,7 +20,7 @@
             <div class="col-lg-1"></div>
             <div class="col-lg-10">
               <div class="serviceauthior-area p-0">
-                <img src="assets/images/sectionimg/servicedeailsimg1.png" alt="">
+                <img src="assets/images/bg/bg7.jpg" alt="">
                 <h1 class="font-lora font-40 lineh-50 weight-600 color-29 margin-b20 margin-t28">Project Management</h1>
                 <p class="font-ks font-16 lineh-26 weight-500 color-30 margin-b20">In the intricate realm of business initiatives, effective Project Management stands as the linchpin for success. Corridor Group AG excels in this domain, providing comprehensive Project Management services crafted to guide your projects with precision, ensuring not just completion but triumphant outcomes.</p>
                 

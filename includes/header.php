@@ -39,6 +39,13 @@
       height: auto;
     }
 
+    .approach-img {
+      background-color: #00844d;
+    }
+    
+    .approach-area:hover {
+      background-color: #00844d;
+    }
 
     /* Media query for larger screens (768 pixels and above) */
     @media only screen and (min-width: 768px) {
@@ -113,12 +120,13 @@
                   </li>
                   <li><a href="service.php" class="font-ks font-16 weight-500 color">Our Services <span><i class="fa-solid fa-angle-down"></i></span></a>
                     <ul>
-                      <li><a href="#" class="font-ks font-16 weight-500 color">Asset Management</a></li>
-                      <li><a href="#" class="font-ks font-16 weight-500 color">Reliability Management</a></li>
-                      <li><a href="#" class="font-ks font-16 weight-500 color">Maintenance Management</a></li>
-                      <li><a href="#" class="font-ks font-16 weight-500 color">Project Management</a></li>
-                      <li><a href="#" class="font-ks font-16 weight-500 color">Facilities Management</a></li>
-                      <li><a href="#" class="font-ks font-16 weight-500 color">Business Improvement</a></li>
+                      <li><a href="asset-management.php" class="font-ks font-16 weight-500 color">Asset Management</a></li>
+                      <li><a href="reliability-management.php" class="font-ks font-16 weight-500 color">Reliability Management</a></li>
+                      <li><a href="maintenance-management.php" class="font-ks font-16 weight-500 color">Maintenance Management</a></li>
+                      <li><a href="project-management.php" class="font-ks font-16 weight-500 color">Project Management</a></li>
+                      <li><a href="facilities-management.php" class="font-ks font-16 weight-500 color">Facilities Management</a></li>
+                      <li><a href="business-improvement.php" class="font-ks font-16 weight-500 color">Business Improvement</a></li>
+                      <li><a href="safety-risk-management.php" class="font-ks font-16 weight-500 color">Safety Risk Management</a></li>
                     </ul>
                   </li>
                   <li><a href="sector.php" class="font-ks font-16 weight-500 color">Sectors <span><i class="fa-solid fa-angle-down"></i></span></a>
