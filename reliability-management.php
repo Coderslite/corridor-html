@@ -20,7 +20,7 @@
             <div class="col-lg-1"></div>
             <div class="col-lg-10">
               <div class="serviceauthior-area p-0">
-                <img src="assets/images/sectionimg/servicedeailsimg1.png" alt="">
+                <img src="assets/images/bg/bg5.jpg" alt="">
                 <h1 class="font-lora font-40 lineh-50 weight-600 color-29 margin-b20 margin-t28">Reliability Management</h1>
                 <p class="font-ks font-16 lineh-26 weight-500 color-30 margin-b20">Our team specializes in proactive strategies to enhance asset dependability. We work closely with you to develop customized plans that reduce disruptions, increase reliability, and contribute to overall operational efficiency.</p>
                 

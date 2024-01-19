@@ -1,7 +1,7 @@
 <?php include "includes/header.php";?>
 
 
-<div class="welcome-eightsection-area">
+<div class="welcome-eightsection-area" style="background-image: url('assets/images/bg/technology2.jpg');">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6">
@@ -21,7 +21,7 @@
             <div class="col-lg-1"></div>
             <div class="col-lg-10">
               <div class="serviceauthior-area p-0">
-                <img src="assets/images/sectionimg/caseleftimg1.png" alt="">
+                <img src="assets/images/bg/technology2.jpg" alt="">
                 <h1 class="font-lora font-40 lineh-50 weight-600 color-29 margin-b20 margin-t28">Technology : Invest in Tomorrow’s Technology Today
 </h1>
                 <p class="font-ks font-16 lineh-26 weight-500 color-30 margin-b20">Corridor Group AG provides access to a thriving global tech ecosystem. Explore investments not only in established tech hubs but also in emerging tech centers, ensuring your portfolio remains diverse and dynamic. Seize the opportunity to be at the forefront of technological innovation. Connect with Corridor Group AG today, and let’s shape the future of technology investments together.</p>

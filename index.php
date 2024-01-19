@@ -1,7 +1,7 @@
 <?php include "includes/header.php";?>
 
 <!--===== WElCOME STARTS=======-->
-<div class="welcome-eightsection-area">
+<div class="welcome-eightsection-area" style="background-image: url('assets/images/bg/bg3.jpg');">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6">
@@ -255,7 +255,7 @@
             <div class="col-lg-4" >
               <div class="single-portfolio singlecase" style="overflow: hidden;">
                 <div class="portfolio-images singleportfolio">
-                  <img src="assets/images/sectionimg/case-img1.png" alt="">
+                  <img src="assets/images/bg/road2.png" alt="">
                 </div>
                 <div class="portfolio-textarea">
                   <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Road & Highway Sector</a></h1>
@@ -273,7 +273,7 @@
           <div class="col-lg-4" >
             <div class="single-portfolio singlecase" style="overflow: hidden;">
               <div class="portfolio-images singleportfolio">
-                <img src="assets/images/sectionimg/case-img2.png" alt="">
+                <img src="assets/images/bg/technology.png" alt="">
               </div>
               <div class="portfolio-textarea">
                 <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Technology</a></h1>
@@ -290,7 +290,7 @@
             <div class="col-lg-4" >
               <div class="single-portfolio singlecase" style="overflow: hidden;">
                 <div class="portfolio-images singleportfolio">
-                  <img src="assets/images/sectionimg/case-img3.png" alt="">
+                  <img src="assets/images/bg/maritime_and_oil.png" alt="">
                 </div>
                 <div class="portfolio-textarea">
                   <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Petroleum & Maritime</a></h1>
@@ -308,7 +308,7 @@
             <div class="col-lg-4" >
               <div class="single-portfolio singlecase" style="overflow: hidden;">
                 <div class="portfolio-images singleportfolio">
-                  <img src="assets/images/sectionimg/case-img4.png" alt="">
+                  <img src="assets/images/bg/health-care.png" alt="">
                 </div>
                 <div class="portfolio-textarea">
                   <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Healthcare</a></h1>
@@ -326,7 +326,7 @@
           <div class="col-lg-4" >
             <div class="single-portfolio singlecase" style="overflow: hidden;">
               <div class="portfolio-images singleportfolio">
-                <img src="assets/images/sectionimg/case-img5.png" alt="">
+                <img src="assets/images/bg/containers-railways-aerial-views.png" alt="">
               </div>
               <div class="portfolio-textarea">
                 <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Rail and Freight</a></h1>
@@ -343,7 +343,7 @@
           <div class="col-lg-4" >
             <div class="single-portfolio singlecase" style="overflow: hidden;">
               <div class="portfolio-images singleportfolio">
-                <img src="assets/images/sectionimg/case-img9.png" alt="">
+                <img src="assets/images/bg/renewable_energy.png" alt="">
               </div>
               <div class="portfolio-textarea">
                 <h1 class="font-24 weight-600 font-outfit lineh-24 color-17 margin-b14"><a href="casemiddle.html" class="color-17">Renewable Energy</a></h1>

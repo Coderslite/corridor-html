@@ -1,7 +1,7 @@
 <?php include "includes/header.php";?>
 
 
-<div class="welcome-eightsection-area">
+<div class="welcome-eightsection-area" style="background-image: url('assets/images/bg/petroleum2.jpg');">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6">
@@ -21,7 +21,7 @@
             <div class="col-lg-1"></div>
             <div class="col-lg-10">
               <div class="serviceauthior-area p-0">
-                <img src="assets/images/sectionimg/caseleftimg1.png" alt="">
+                <img src="assets/images/bg/petroleum2.jpg" alt="">
                 <h1 class="font-lora font-40 lineh-50 weight-600 color-29 margin-b20 margin-t28">Investing in the Blue Economy</h1>
                 <p class="font-ks font-16 lineh-26 weight-500 color-30 margin-b20">Dive into the vast horizons of maritime investments with Corridor Group AG. We navigate the complex seas of opportunities, from shipping and logistics to offshore exploration and marine technology. Explore ventures that drive maritime innovation while securing solid returns on your investment. Our maritime experts stand ready to guide you through the nuances of the maritime industry. Benefit from our strategic planning services, tailored to optimize returns and enhance long-term value in this crucial sector of the global economy.</p>
 

@@ -20,7 +20,7 @@
             <div class="col-lg-1"></div>
             <div class="col-lg-10">
               <div class="serviceauthior-area p-0">
-                <img src="assets/images/sectionimg/servicedeailsimg1.png" alt="">
+                <img src="assets/images/bg/bg6.jpg" alt="">
                 <h1 class="font-lora font-40 lineh-50 weight-600 color-29 margin-b20 margin-t28">Maintenance Management</h1>
                 <p class="font-ks font-16 lineh-26 weight-500 color-30 margin-b20">Corridor Group AG's Maintenance Management services are meticulously designed to help you achieve operational excellence by extending the lifespan of your critical assets and minimizing disruptions.</p>
                 

@@ -8,7 +8,7 @@
                 <h1 class="font-lora font-60 lineh-64 weight-500 color margin-b24">Facilities Management</h1>
                 <p class="font-20 weight-500 font-ks lineh-20 color"><a href="/" class="color">Home</a><span><i class="fa-solid fa-angle-right"></i></span> <a href="/" class="color">Services</a><span><i class="fa-solid fa-angle-right"></i></span>Facilities Management</p>
             </div>
-        </div>
+        </div> 
     </div>
 </div>
 <!--===== WElCOME END=======-->
@@ -20,7 +20,7 @@
             <div class="col-lg-1"></div>
             <div class="col-lg-10">
               <div class="serviceauthior-area p-0">
-                <img src="assets/images/sectionimg/servicedeailsimg1.png" alt="">
+                <img src="assets/images/bg/bg8.jpg" alt="">
                 <h1 class="font-lora font-40 lineh-50 weight-600 color-29 margin-b20 margin-t28">Facilities Management</h1>
                 <p class="font-ks font-16 lineh-26 weight-500 color-30 margin-b20">We are here to boost your business through top-notch Facilities Management. Our services are designed to not just organize your workspace but to make it work better for you.</p>
                 

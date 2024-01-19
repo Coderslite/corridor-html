@@ -1,6 +1,6 @@
 <?php include "includes/header.php";?>
 
-<div class="welcome-eightsection-area">
+<div class="welcome-eightsection-area" style="background-image: url('assets/images/bg/bg1.jpg');">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6">

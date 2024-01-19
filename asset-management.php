@@ -4,7 +4,7 @@
 <div class="welcomeabout-area">
     <div class="row">
         <div class="col-lg-12">
-            <div class="welcomeaboiut2 text-center">
+            <div class="welcomeaboiut2 text-center" style="background-image: url('assets/images/bg/bg3.jpg');"">
                 <h1 class="font-lora font-60 lineh-64 weight-500 color margin-b24">Asset Management</h1>
                 <p class="font-20 weight-500 font-ks lineh-20 color"><a href="/" class="color">Home</a><span><i class="fa-solid fa-angle-right"></i></span> <a href="/" class="color">Services</a><span><i class="fa-solid fa-angle-right"></i></span>Asset Management</p>
             </div>
@@ -20,7 +20,7 @@
             <div class="col-lg-1"></div>
             <div class="col-lg-10">
               <div class="serviceauthior-area p-0">
-                <img src="assets/images/sectionimg/servicedeailsimg1.png" alt="">
+                <img src="assets/images/bg/bg3.jpg" alt="" style="width: auto; height: auto;">
                 <h1 class="font-lora font-40 lineh-50 weight-600 color-29 margin-b20 margin-t28">Asset Management</h1>
                 <p class="font-ks font-16 lineh-26 weight-500 color-30 margin-b20">Corridor Group AG recognizes that effective Asset Management is at the heart of every successful business strategy. Our comprehensive Asset Management services are designed to empower you to make informed decisions, optimize your portfolio, and achieve long-term financial success</p>
                 

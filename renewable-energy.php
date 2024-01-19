@@ -1,7 +1,7 @@
 <?php include "includes/header.php";?>
 
 
-<div class="welcome-eightsection-area">
+<div class="welcome-eightsection-area" style="background-image: url('assets/images/bg/renewable_energy.jpg');">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6">
@@ -21,7 +21,7 @@
             <div class="col-lg-1"></div>
             <div class="col-lg-10">
               <div class="serviceauthior-area p-0">
-                <img src="assets/images/sectionimg/caseleftimg1.png" alt="">
+                <img src="assets/images/bg/renewable_energy.jpg" alt="">
                 <h1 class="font-lora font-40 lineh-50 weight-600 color-29 margin-b20 margin-t28">Powering Tomorrow, Investing Today</h1>
                 <p class="font-ks font-16 lineh-26 weight-500 color-30 margin-b20">Our team of renewable energy specialists brings profound industry expertise to the table. Whether you're navigating the complexities of solar projects, wind farms, or emerging technologies, our consultancy ensures your investments are well-informed, environmentally conscious, and aligned with the future of energy. We unveil exclusive opportunities in clean energy investments, from solar and wind power to innovative energy storage solutions. Explore ventures that not only promise financial growth but also contribute to a sustainable and resilient future.</p>
 
